@@ -1,0 +1,1001 @@
+prompt,label,classname
+"The tench is a freshwater fish with a thick, olive-green body, small scales, and a pair of barbels around its mouth, giving it a distinctive appearance.",0,tench
+"Known for their vibrant orange color, goldfish are small, ornamental fish with a variety of tail shapes and lengths, often seen in aquariums and ponds.",1,goldfish
+"This large, predatory great white shark has a torpedo-shaped body, a conical snout, and rows of serrated teeth. Its upper body is gray, while its underside is a lighter shade of white, providing effective camouflage in the ocean.",2,great white shark
+"Named after the dark, vertical stripes on its body, the tiger shark has a stout and streamlined shape, a blunt snout, and sharp, serrated teeth, making it a formidable predator.",3,tiger shark
+"This unique hammerhead shark species is known for its distinct hammer-shaped head, which features widely spaced eyes, providing them with a greater visual range.",4,hammerhead shark
+"Electric rays are flattened, disc-shaped fish with smooth skin and a pair of kidney-shaped electric organs on each side of their body, used for hunting prey and self-defense.",5,electric ray
+"With a flat, diamond-shaped body, long, whip-like tail, and large pectoral fins, stingrays are easily recognizable. Their tail contains a venomous spine, used for self-defense.",6,stingray
+"Known for their vibrant plumage, roosters have an upright posture, a fan-shaped tail, and a distinctive red comb and wattles on their head, distinguishing them from hens.",7,rooster
+"Hens are generally smaller than roosters, with more modest plumage in shades of brown or white. They have a rounded body and a smaller comb and wattles compared to roosters.",8,hen
+"The largest living bird, ostriches are flightless and characterized by their long, slender necks, large, round bodies, and long, powerful legs, making them the fastest runners among birds. Their feathers are sparse and primarily gray or brown in color.",9,ostrich
+"A small passerine bird, the brambling has a robust beak, a dark head, and a white belly. Males have vibrant orange feathers on their chest and shoulders, while females have more subdued colors.",10,brambling
+"Known for their striking yellow and black plumage, goldfinches have a red face, black and white wings, and a notched tail, making them easily recognizable.",11,goldfinch
+"These small house finch have a stout body, a short, notched tail, and a strong, conical beak. Males are brightly colored, with red or orange plumage on their head and chest, while females are mostly gray-brown.",12,house finch
+"With a gray or brown body, white belly, and dark eyes, juncos have a distinctive appearance. They also have a short, stout beak and a dark, forked tail.",13,junco
+"Sporting a vivid blue plumage, indigo buntings are small birds with a conical beak and a short, notched tail. Females are a more modest brown color.",14,indigo bunting
+"A familiar sight in North America, American robins have a reddish-orange chest, a gray-brown back, and a white belly, along with a dark, rounded head and a yellow beak.",15,American robin
+"These medium-sized bulbul have a slender body, a distinct crest on their head, and a long, curved tail. They come in various shades of brown, with some species having splashes of color on their heads or throats.",16,bulbul
+"Jays are medium-sized, colorful birds with a distinctive crest, a stout body, and strong legs. They have striking blue and white plumage on their wings and a black and white tail.",17,jay
+"Known for their long tail and striking black and white plumage, magpies have a distinctive appearance, complete with a strong, black beak and a white belly.",18,magpie
+"These small, round chickadee have a black cap and bib, white cheeks, and a gray back. They are known for their short, strong beaks and their sociable nature.",19,chickadee
+"A small, plump bird with a slate-gray color, the American dipper has a short tail, white eyelids, and a distinctive bobbing motion when perched near water.",20,American dipper
+"kite (bird of prey) are medium-sized birds of prey with long wings, a forked tail, and a sharp, hooked beak. They come in various shades of brown, gray, and black.",21,kite (bird of prey)
+"A symbol of the United States, bald eagles have a white head and tail, a dark brown body, and a large, yellow beak. They are known for their impressive wingspan and powerful talons.",22,bald eagle
+"These large, scavenging vulture have a bald head, a hooked beak, and a hunched posture. They have dark brown or black feathers, and a broad wingspan for soaring.",23,vulture
+"The largest owl species, the great grey owl has a rounded head, a distinctive facial disc, and piercing yellow eyes. They have a mix of gray and white feathers, giving them excellent camouflage.",24,great grey owl
+"Sporting black and yellow or orange markings, fire salamanders are striking amphibians with a long, slender body and smooth, moist skin.",25,fire salamander
+"This small smooth newt has a slender body, smooth skin, and a long, vertically flattened tail. They come in shades of brown or green, with a paler belly.",26,smooth newt
+"Newts are small, semi-aquatic amphibians with slender bodies, smooth skin, and a vertically flattened tail. They come in various shades of brown, green, or orange, and may have spotted or striped patterns.",27,newt
+"This large, black or dark grey spotted salamander is easily recognized by its distinct yellow or orange spots along its back. It has a stout body, short legs, and a long, rounded tail.",28,spotted salamander
+"Known for their unique external gills and wide, flat head, axolotls are aquatic salamanders with a slender body and a long, laterally compressed tail. They come in various colors, including albino and leucistic varieties.",29,axolotl
+"This large, green or brown American bullfrog is characterized by its robust body, webbed hind feet, and prominent tympanum (ear) on each side of the head. Males have a bright yellow throat during the breeding season.",30,American bullfrog
+"Tree frogs are small, arboreal frogs with slender bodies, vibrant colors, and enlarged, adhesive toe pads that enable them to climb trees and other surfaces.",31,tree frog
+"The tailed frog has a small, stout body, large eyes, and a distinct, fleshy tail-like appendage in males, used for reproduction. Its color ranges from brown to green, with a lighter underbelly.",32,tailed frog
+"This large loggerhead sea turtle turtle has a broad, reddish-brown carapace (shell) and a large head with powerful jaws. Its flippers are paddle-like, allowing it to navigate the ocean with ease.",33,loggerhead sea turtle
+"The largest leatherback sea turtle turtle species, the leatherback has a unique, leathery carapace with seven ridges running lengthwise. Its body is dark, with white or pale spots and large, paddle-like flippers.",34,leatherback sea turtle
+"Mud turtles have a small, domed shell that can be brown, black, or olive-green. They have a yellow or orange stripe on each side of the head and webbed feet for swimming.",35,mud turtle
+"Terrapins are small to medium-sized turtles with a flattened shell and a distinct pattern of concentric rings or streaks. They have webbed feet with strong claws, suited for both aquatic and terrestrial environments.",36,terrapin
+"Known for their high-domed shell and hinged lower shell (plastron), box turtles can completely close their shell for protection. They have a stout body, a short, thick tail, and strong, clawed feet.",37,box turtle
+"These small, nocturnal banded gecko have a slender body, large eyes with vertical pupils, and a banded pattern of alternating light and dark stripes along their body and tail.",38,banded gecko
+"The green iguana is a large, arboreal lizard with a distinct row of spines along its back and tail. It has a bright green color, a dewlap under its throat, and strong, clawed feet for climbing.",39,green iguana
+"Also known as the green Carolina anole, this small lizard has a slender body, a long tail, and the ability to change color from green to brown. Males have a brightly colored dewlap used for territorial displays.",40,Carolina anole
+"This desert grassland whiptail lizard, long-tailed lizard has a light brown or olive-green body with light stripes running along its sides. It has a pointed snout and is known for its fast, agile movements.",41,desert grassland whiptail lizard
+"Agamas are medium-sized lizards with a flattened body, a triangular head, and a long, tapering tail.",42,agama
+"This unique frilled-necked lizard is known for its large frill around the neck, which can be expanded when threatened or during courtship. It has a slender body, a long tail, and is usually brown or grey with spots or bands.",43,frilled-necked lizard
+"With a long, slender body, short legs, and a triangular head, alligator lizards resemble miniature alligators. They have a row of dorsal scales along their back and a long, tapered tail.",44,alligator lizard
+"This venomous Gila monster is characterized by its stocky body, broad head, and distinctive beaded skin with a pattern of pink, orange, or yellow bands on a black or dark brown background.",45,Gila monster
+"This brightly colored European green lizard has a vibrant green body with dark spots or stripes, a blue throat (in males), and a long, slender tail. They have a robust build and are agile climbers.",46,European green lizard
+"Known for their remarkable color-changing abilities, chameleons are unique reptiles with a laterally compressed body, a prehensile tail, and independently moving eyes. They have specialized, turret-like feet for gripping branches.",47,chameleon
+"The largest living lizard, Komodo dragons have a robust, muscular body, a large, powerful head, and a long, thick tail. Their rough, scaly skin is usually grey or brown, and they have sharp claws and serrated teeth.",48,Komodo dragon
+"This large, powerful reptile has a broad snout, thick scales, and a long, muscular tail. Its color ranges from dark green to brown, with a lighter underside. Nile crocodiles are known for their strong jaws and sharp teeth.",49,Nile crocodile
+"Characterized by their dark, armored body and broad, rounded snout, American alligators have a powerful tail and sharp teeth. They are smaller than Nile crocodiles but still a formidable predator.",50,American alligator
+"An herbivorous dinosaur, the triceratops had a massive, bony frill, three horns on its face, and a beak-like mouth. Its body was robust, with short, stout legs and a long tail.",51,triceratops
+"These small, slender worm snake have a smooth, glossy appearance and are usually pink, brown, or gray. They have a blunt head and a short, pointed tail, resembling an earthworm.",52,worm snake
+"This small, slender ring-necked snake is characterized by a distinct, brightly colored ring around its neck, usually yellow or orange. The body color varies from grey to black, and the underside is brightly colored.",53,ring-necked snake
+"Known for its upturned, hog-like eastern hog-nosed snake, this snake has a stout body, keeled scales, and a variable color pattern. When threatened, it can flatten its neck, mimicking a cobra.",54,eastern hog-nosed snake
+"This non-venomous smooth green snake is easily recognized by its bright, solid green color and smooth, shiny scales. It has a slender body, a small head, and large, round eyes.",55,smooth green snake
+"Kingsnakes have a slender body and a bold pattern of alternating light and dark bands or stripes. They are known for their ability to kill and eat other snakes, including venomous species.",56,kingsnake
+"These small, non-venomous garter snake have a slender body with longitudinal stripes running the length of their body. They come in various colors, including green, brown, and black, with a lighter belly.",57,garter snake
+"Water snakes have a thick, robust body and a broad head. They come in various shades of brown or gray with dark markings, and are often mistaken for venomous snakes due to their appearance.",58,water snake
+"These vine snake, arboreal snakes have a long, thin body that mimics the appearance of a vine. They are usually green or brown and have a pointed head with excellent camouflage abilities.",59,vine snake
+"These small, nocturnal night snake have a gray or brown body with dark blotches or bands. They have a flat, triangular head and large, vertical pupils, adapted for hunting in low light conditions.",60,night snake
+"This large, non-venomous snake has a thick, muscular body with a distinctive pattern of brown or reddish-brown saddles on a lighter background. Boa constrictors are known for their ability to constrict their prey.",61,boa constrictor
+"This large, powerful African rock python has a thick, muscular body with a pattern of dark, irregular blotches on a lighter background. It has a large, triangular head and strong, curved teeth.",62,African rock python
+"Recognizable by its hood, the Indian cobra has a slender body with a variable color pattern that can include bands, spots, or a solid color. It is one of the most venomous snakes in India.",63,Indian cobra
+"The green mamba is a slender, arboreal snake with a bright, solid green color. It has a long, tapering tail and a slightly flattened head, and is known for its potent venom.",64,green mamba
+"Sea snakes have a laterally compressed body and a paddle-like tail, adapted for their aquatic lifestyle. They come in various colors and patterns, and many species are venomous.",65,sea snake
+"This venomous Saharan horned viper has a distinct, horn-like structure above each eye, giving it its name. It has a thick, robust body with a pattern of light and dark bands or blotches, providing excellent camouflage in desert environments.",66,Saharan horned viper
+"One of the largest and most venomous eastern diamondback rattlesnake, the eastern diamondback has a thick body with a distinctive pattern of diamond-shaped markings on its back. It has a large, triangular head and a rattle at the end of its tail.",67,eastern diamondback rattlesnake
+"Known for its distinctive sidewinder rattlesnake movement, this small rattlesnake has a thin body with a pattern of light and dark bands. Its head is broad and triangular, with a small rattle at the end of its tail.",68,sidewinder rattlesnake
+"An extinct group of marine arthropods, trilobites had a hard, segmented exoskeleton with a distinct head, thorax, and tail. They came in various shapes and sizes, with some having spines or other ornamentation.",69,trilobite
+"A harvestman of arachnid, harvestmen have a small, oval body and long, thin legs. They are often mistaken for spiders but lack the silk-producing organs and have a fused body structure.",70,harvestman
+"Scorpions are nocturnal arachnids with a segmented body, a pair of large, claw-like pedipalps, and a long, segmented tail with a venomous stinger at the end. They come in various sizes and colors, with some having fluorescent properties under ultraviolet light.",71,scorpion
+"This large, colorful yellow garden spider has a distinctive yellow and black striped pattern on its abdomen and a round, bulbous body. It spins a large, circular web in gardens and fields to capture prey.",72,yellow garden spider
+"Similar in appearance to the yellow garden spider, the barn spider has a brown or grey body with a pattern of yellow, white, or beige spots on its abdomen. It is often found in barns or other outbuildings.",73,barn spider
+"This large European garden spider has a circular body with a distinctive pattern of white or yellow spots on a brown background. It spins an intricate, orb-shaped web to catch flying insects.",74,European garden spider
+"This venomous southern black widow has a glossy black body with a red hourglass-shaped marking on the underside of its abdomen. It spins irregular webs in dark, sheltered areas.",75,southern black widow
+"These large, hairy tarantula have a thick, robust body and powerful legs. They come in various colors and patterns and are known for their venomous bite and ability to flick urticating hairs as a defense mechanism.",76,tarantula
+"These large, hunting wolf spider have a robust, hairy body and long, spiny legs. They do not spin webs but instead hunt for prey on the ground or in foliage.",77,wolf spider
+"These small, blood-sucking tick have a flattened body and a tough, leathery skin. They can transmit diseases such as Lyme disease and Rocky Mountain spotted fever.",78,tick
+"These long, many-legged centipede have a flattened body and a pair of antennae on their head. They are fast-moving predators that feed on insects and other small prey.",79,centipede
+This black grouse bird has a distinctive black plumage and a fan-shaped tail with white markings. The males have a bright red comb over their eyes and distinctive white markings on their wings.,80,black grouse
+"This ptarmigan has a distinctive plumage that changes color seasonally, from brown in the summer to white in the winter. They have feathered feet and a small, round body adapted for life in alpine environments.",81,ptarmigan
+This medium-sized ruffed grouse bird has a distinctive ruff of black feathers on its neck and a fan-shaped tail with a dark band. They have a mottled brown plumage and are found in forests and woodlands.,82,ruffed grouse
+"These ground-dwelling prairie grouse have a short, stocky build and a distinctive lyre-shaped tail. They have a brown or gray plumage with intricate patterns on the feathers.",83,prairie grouse
+"The male peafowl, or peacock, is known for its iridescent blue and green plumage and a fan-shaped tail with colorful eye-spots. The female, or peahen, is less colorful but still has a distinctive crest and a long, elegant neck.",84,peafowl
+"These small, ground-dwelling quail have a plump body, a short tail, and a distinctive head crest. They have brown or grey plumage with intricate patterns on the feathers, providing excellent camouflage.",85,quail
+"Partridges are medium-sized game birds with a plump body, short legs, and a small head. They have a brown, grey, or reddish plumage with intricate patterns, and males often have a distinctive dark patch on the breast.",86,partridge
+"Known for their intelligence and mimicry abilities, African grey parrots have a predominantly grey plumage with a bright red tail. They have a robust build, a strong beak, and a distinctive white patch around the eyes.",87,african grey parrot
+"These large, colorful macaw have a long tail, a strong curved beak, and a bright, vibrant plumage that can include shades of blue, green, red, and yellow. They are known for their intelligence and social behavior.",88,macaw
+"This large, white sulphur-crested cockatoo has a distinctive yellow crest, a curved beak, and a raucous call. They are known for their playful and inquisitive nature and are often seen in large, noisy flocks.",89,sulphur-crested cockatoo
+"These small, brightly colored lorikeet have a slender body, a long tail, and a brush-tipped tongue adapted for feeding on nectar. They come in a variety of vibrant colors, including blue, green, red, and yellow.",90,lorikeet
+"These large, ground-dwelling coucal have a robust build, a long tail, and a distinctive head crest. They have a dark plumage with a glossy sheen, and are known for their deep, resonant calls.",91,coucal
+"These colorful, bee eater birds have a long, curved bill, a bright plumage, and a distinctive tail with elongated central feathers. They are agile flyers and skilled at catching bees and other flying insects.",92,bee eater
+"These large, tropical hornbill have a distinctive, large, curved bill with a casque on top. They have a robust build, a long tail, and a loud, resonant call. Their plumage is often a mix of black, white, and grey, with some species having bright colors on their face and throat.",93,hornbill
+"These small, colorful hummingbird are known for their iridescent plumage, rapid wing beats, and ability to hover in midair. They have a slender, curved bill adapted for feeding on nectar, and come in a variety of vibrant colors.",94,hummingbird
+"These jacamar, tropical birds have a long, pointed bill, a glossy plumage, and a short tail. They are agile hunters, catching insects in midair, and often have bright colors, such as green, blue, or bronze.",95,jacamar
+"Known for their large, colorful bills, toucans have a robust body, a short neck, and a brightly colored plumage. They are primarily fruit-eaters and are found in the tropical forests of Central and South America.",96,toucan
+"These duck have a round body, a flat bill, and webbed feet, adapted for swimming and dabbling for food. They come in various colors and patterns, with some species having bright, iridescent plumage.",97,duck
+"This diving red-breasted merganser has a slender body, a thin, serrated bill, and a distinctive crest of feathers on its head. Males have a black and white plumage with a reddish-brown breast, while females have a brown and grey plumage.",98,red-breasted merganser
+"These large goose have a long neck, a sturdy body, and webbed feet. They come in various colors and patterns, with some species having distinctive markings on the head or neck. Geese are known for their strong, honking calls.",99,goose
+"This large, elegant black swan has a unique black plumage, a long, curved neck, and bright red bill. They are native to Australia and are often seen swimming gracefully on lakes and ponds.",100,black swan
+"A term commonly used for an elephant with large tusks, tuskers are usually male African or Asian elephants. They have a massive body, large ears, and a long, prehensile trunk, with their tusks being their most distinctive feature.",101,tusker
+"These small, egg-laying echidna have a spiny, hedgehog-like appearance and a long, slender snout. They are native to Australia and New Guinea and are known for their ability to burrow into the ground for protection.",102,echidna
+"This unique, egg-laying platypus has a streamlined body, a flat, duck-like bill, and webbed feet. They are native to Australia and are known for their ability to locate prey using electroreception.",103,platypus
+"These small to medium-sized wallaby have a stocky body, large hind legs, and a long, thick tail. They are native to Australia and are closely related to kangaroos.",104,wallaby
+"These arboreal koala have a round, fuzzy body, large ears, and a distinctive, spoon-shaped nose. They are native to Australia and are known for their eucalyptus diet and sleepy demeanor.",105,koala
+"These stocky, burrowing wombat have a thickset body, short legs, and a distinctive, bear-like face. They are native to Australia and are known for their ability to dig extensive burrows.",106,wombat
+"These soft-bodied, gelatinous jellyfish animals have a bell-shaped body and long, trailing tentacles. They come in various sizes and colors, and many species have stinging cells on their tentacles for capturing prey.",107,jellyfish
+"These marine sea anemone have a soft, cylindrical body and a crown of tentacles surrounding a central mouth. They come in various colors and patterns and are often found attached to rocks or other substrates in the ocean.",108,sea anemone
+"This brain coral of stony coral has a distinctive, brain-like appearance, with a series of winding, maze-like ridges and valleys. They are found in warm, shallow waters and contribute to the structure of coral reefs.",109,brain coral
+"These soft-bodied, invertebrate flatworm have a flattened, elongated body and a simple, bilateral body plan. They come in various sizes and colors and are found in both aquatic and terrestrial environments.",110,flatworm
+"Also known as roundworms, nematodes are slender, unsegmented worms with a smooth, cylindrical body. They are found in various habitats, including soil, water, and inside other organisms as parasites.",111,nematode
+"These large, conch snails have a distinctive, spiral shell and a strong, muscular foot. They are found in tropical waters and are known for their ornate shells and edible flesh.",112,conch
+"These terrestrial or aquatic snail have a coiled shell and a muscular foot for locomotion. They come in various sizes and colors, and many species have a distinctive, spiral shell.",113,snail
+"These soft-bodied, terrestrial slug have a flattened, elongated body and lack the protective shell found in snails. They come in various colors and sizes and are often found in damp environments.",114,slug
+"These marine sea slug have a soft, elongated body and often display bright colors and patterns. Some species, called nudibranchs, lack a shell and are known for their unique, striking appearance.",115,sea slug
+"These marine chiton have a distinctive, armored body composed of eight overlapping plates. They have a broad, flat foot for locomotion and are often found clinging to rocks in intertidal zones.",116,chiton
+"This ancient chambered nautilus mollusk has a spiral, chambered shell and numerous tentacles surrounding a beak-like mouth. They are found in deep ocean waters and are known for their unique, intricate shell structure.",117,chambered nautilus
+"This large, edible Dungeness crab has a broad, oval carapace covered in spines, and long, powerful claws. They are found along the Pacific coast of North America and are prized for their sweet, tender meat.",118,Dungeness crab
+"These medium-sized rock crab have a flat, round carapace covered in small spines, and strong, robust claws. They are found in rocky intertidal zones and are known for their ability to blend in with their surroundings.",119,rock crab
+"These small, colorful fiddler crab are known for their distinctively asymmetric claws, with one being much larger than the other. Males use their enlarged claw to attract mates and defend their territory.",120,fiddler crab
+"This large, spiny red king crab has a distinctive red coloration, a fan-shaped carapace, and long, spindly legs. They are found in cold, northern waters and are prized for their sweet, tender meat.",121,red king crab
+"This large, marine American lobster has a robust body, a pair of powerful claws, and a tough, spiny exoskeleton. They are found along the Atlantic coast of North America and are a popular seafood choice.",122,American lobster
+"These marine spiny lobster have a long, cylindrical body, a pair of long, spiny antennae, and a tough exoskeleton. They lack the large claws of true lobsters and are found in warm, tropical waters.",123,spiny lobster
+"These crayfish crustaceans have a compact, lobster-like body, a pair of large, pincer-like claws, and a fan-shaped tail. They are found in rivers, streams, and ponds, and are often used as bait or for consumption.",124,crayfish
+"These small, marine or terrestrial hermit crab have a soft, coiled abdomen that they protect by occupying empty shells. They have a pair of pincer-like claws and are known for their habit of changing shells as they grow.",125,hermit crab
+"These small, isopod have a flattened, segmented body and a pair of pincer-like claws. They are found in various habitats, from deep ocean floors to terrestrial environments like leaf litter.",126,isopod
+"This large, wading white stork has a distinctive white plumage, a long neck, and long, red legs. They have a long, pointed beak and are known for their graceful, soaring flight and migratory habits.",127,white stork
+"Similar in size and shape to the white stork, the black stork has a glossy black plumage, a long, red beak, and red legs. They are found in wooded wetlands and are more secretive than their white counterparts.",128,black stork
+"These large, wading spoonbill have a distinctive, spoon-shaped bill, which they use to sweep through the water in search of small aquatic animals. They have a long neck, long legs, and come in various colors, depending on the species.",129,spoonbill
+"These large, wading flamingo are known for their striking pink plumage, long neck, and long, thin legs. They have a unique, downward-curving bill, which they use to filter-feed on small aquatic organisms like brine shrimp and algae.",130,flamingo
+"This small to medium-sized little blue heron has a dark blue-grey plumage, a long neck, and long legs. They are found in wetlands and coastal areas, where they hunt for fish and other aquatic animals.",131,little blue heron
+"This large, wading great egret has a distinctive white plumage, a long neck, and long, black legs. They have a sharp, pointed bill and are found in wetlands and other aquatic habitats, where they hunt for fish and other prey.",132,great egret
+"These secretive, wading bittern bird have a cryptic, streaked plumage, a thick neck, and long legs. They are found in marshes and wetlands, where they hunt for fish and other aquatic animals by standing motionless and striking quickly with their sharp bill.",133,bittern bird
+"These large, wading crane bird have a slender body, a long neck, and long legs. They have a pointed bill and are known for their elaborate courtship dances and far-reaching calls. Cranes are found in various habitats, including wetlands, grasslands, and forests.",134,crane bird
+"This medium-sized, wading bird has a dark, streaked plumage, a long neck, and long legs. They have a curved, pointed bill, which they use to extract snails and other mollusks from their shells. Limpkins are found in wetlands and other aquatic habitats.",135,limpkin
+"This medium-sized, common gallinule has a dark, slate-grey plumage, a red and yellow bill, and long legs with large, lobed toes. They are found in marshes and other wetlands, where they feed on aquatic plants and small animals.",136,common gallinule
+"This medium-sized, American coot has a dark, slate-grey plumage, a white bill, and long legs with large, lobed toes. They are found in ponds, lakes, and marshes, where they feed on aquatic plants and small animals.",137,American coot
+"These large, terrestrial birds have a robust body, long legs, and a small head. They are found in grasslands and open habitats, where they feed on seeds, insects, and small animals. Bustards are known for their elaborate courtship displays and strong, fast-running abilities.",138,bustard
+"This small, wading ruddy turnstone has a distinctive, mottled plumage, a short, pointed bill, and short legs. They are found along rocky and sandy shores, where they use their bill to flip over stones and other objects in search of invertebrates.",139,ruddy turnstone
+"This small, wading dunlin has a brown and grey plumage, a long, slender bill, and medium-length legs. They are found in coastal and wetland habitats, where they feed on insects, crustaceans, and other small invertebrates.",140,dunlin
+"This medium-sized, wading common redshank has a grey-brown plumage, a long, red-orange bill, and long, red-orange legs. They are found in wetlands and coastal habitats, where they feed on insects, worms, and other small invertebrates.",141,common redshank
+"These medium-sized, wading dowitcher have a brown and grey plumage, a long, straight bill, and medium-length legs. They are found in wetland and coastal habitats, where they probe the mud with their bills to find small invertebrates.",142,dowitcher
+"These distinctive, wading oystercatcher have a black and white plumage, a long, bright orange-red bill, and stout, pink legs. They are found along rocky and sandy shorelines, where they use their strong bills to pry open shellfish, such as oysters and mussels.",143,oystercatcher
+"These large, waterbirds have a unique, long bill with a large, expandable throat pouch, which they use to scoop up fish. They have a stout body, short legs, and webbed feet. Pelicans are found in a variety of aquatic habitats, from coastal waters to inland lakes and rivers.",144,pelican
+"These large, flightless king penguin have a distinctive black and white plumage, with a bright orange patch on the neck and a long, straight bill. They are found in the sub-Antarctic region, where they breed in large colonies and feed on fish and squid.",145,king penguin
+"These large, seabirds have a streamlined body, a long, hooked bill, and extremely long wings, which allow them to glide effortlessly over vast distances. Albatrosses are found in oceanic habitats and are known for their impressive, long-distance migrations.",146,albatross
+"These large, baleen grey whale have a mottled, grey-brown skin, a robust body, and a distinctive, arched mouth. They are found in the Pacific Ocean and are known for their long migrations between their feeding and breeding grounds.",147,grey whale
+"These large, marine killer whale have a distinctive black and white coloration, a robust body, and a tall, triangular dorsal fin. They are found in oceans worldwide and are known for their advanced hunting techniques and complex social structure.",148,killer whale
+"This herbivorous, marine dugong has a streamlined body, a large, paddle-like tail, and a unique, downturned snout. They are found in shallow, tropical waters, where they feed on seagrass and other aquatic plants.",149,dugong
+"These large, marine sea lion have a streamlined body, a thick layer of blubber, and strong, flipper-like limbs. They are found along coastlines and are known for their playful behavior and impressive, underwater agility.",150,sea lion
+"This small dog breed is known for its tiny size, large, erect ears, and prominent, round eyes. Chihuahuas come in various colors and coat types, and are often described as being alert and confident.",151,Chihuahua
+"This small Japanese Chin breed has a compact body, a short, pushed-in face, and a luxurious, silky coat. They are known for their friendly, affectionate nature and their unique, cat-like agility.",152,Japanese Chin
+"This small Maltese breed has a long, silky, white coat, a compact body, and a gentle, friendly temperament. They are popular as companion animals due to their affectionate nature and elegant appearance.",153,Maltese
+"This small Pekingese breed has a flat face, a broad, wrinkled head, and a long, thick coat. They are known for their regal, dignified demeanor and were once highly prized by Chinese royalty.",154,Pekingese
+"This small Shih Tzu breed has a distinctive, long, flowing coat, a short, pushed-in face, and a friendly, outgoing temperament. They are popular as companion animals due to their affectionate nature and charming appearance.",155,Shih Tzu
+"Also known as the Cavalier King Charles Spaniel, this small dog breed has a compact body, a rounded head, and a silky, wavy coat. They are known for their affectionate and friendly nature, making them excellent companion animals.",156,King Charles Spaniel
+"This small dog breed is characterized by its large, butterfly-like ears, a silky, flowing coat, and a lively, friendly temperament. Papillons are intelligent and easily trainable, making them popular as both companion and performance dogs.",157,Papillon
+"These small, energetic dogs have a compact body, a sleek coat, and erect ears. Toy terriers come in various types, including the Toy Fox Terrier and the Russian Toy Terrier. They are known for their agility, intelligence, and spirited personalities.",158,toy terrier
+"This large Rhodesian Ridgeback breed has a distinctive ridge of hair running along its back, a muscular body, and a short, sleek coat. They were originally bred in southern Africa for hunting and guarding and are known for their loyalty, intelligence, and protective nature.",159,Rhodesian Ridgeback
+"This large dog breed is known for its elegant appearance, with a long, silky coat and a slim, athletic body. Afghan Hounds have a dignified and independent temperament and were originally bred for hunting in the mountainous regions of Afghanistan.",160,Afghan Hound
+"This medium-sized dog breed has a distinctive, droopy appearance, with long ears, a wrinkled face, and a low-slung body. Basset Hounds are known for their excellent sense of smell and were originally bred for hunting small game, like rabbits.",161,Basset Hound
+"This small to medium-sized dog breed has a compact body, a short coat, and a friendly, outgoing temperament. Beagles are known for their excellent sense of smell and were originally bred for hunting small game, like rabbits and hare.",162,Beagle
+"This large dog breed is known for its powerful sense of smell, loose, wrinkled skin, and long, droopy ears. Bloodhounds have a gentle, friendly temperament and were originally bred for tracking humans and hunting game.",163,Bloodhound
+"This Bluetick Coonhound to large-sized dog breed has a distinctive, mottled blue-black and white coat, long ears, and a strong, muscular body. They are known for their excellent sense of smell and were originally bred for hunting raccoons and other game.",164,Bluetick Coonhound
+"This large Black and Tan Coonhound breed has a sleek, black and tan coat, long ears, and a strong, muscular body. They are known for their excellent sense of smell and were originally bred for hunting raccoons and other game, particularly at night.",165,Black and Tan Coonhound
+"This Treeing Walker Coonhound to large-sized dog breed has a short, glossy coat that is typically white with black and tan markings. They are known for their agility, speed, and excellent sense of smell. Originally bred for hunting raccoons, they are called ""treeing"" because they chase their quarry up a tree and alert their handler with a distinctive bark.",166,Treeing Walker Coonhound
+"This medium-sized English foxhound breed has a muscular body, a short coat that is usually white with black and tan markings, and a friendly, energetic temperament. They were originally bred for hunting foxes in England and are known for their stamina, agility, and keen sense of smell.",167,English foxhound
+"This Redbone Coonhound to large-sized dog breed has a sleek, red coat, long ears, and a strong, muscular body. They are known for their excellent sense of smell and were originally bred for hunting raccoons and other game, particularly in the dense forests of the American South.",168,Redbone Coonhound
+"Also known as the borzoi Wolfhound, this large dog breed has a long, slender body, a narrow head, and a silky, wavy coat. They were originally bred for hunting wolves and other large game in Russia and are known for their elegance, speed, and endurance.",169,borzoi
+"This giant Irish Wolfhound breed has a muscular body, a rough coat, and a friendly, gentle temperament. They were originally bred in Ireland for hunting wolves and other large game and are now known for their loyalty, intelligence, and gentle nature.",170,Irish Wolfhound
+"This small Italian Greyhound breed has a sleek, slender body, a short coat, and a graceful, elegant appearance. They are the smallest of the sighthounds and were originally bred for hunting small game and as companion animals. They are known for their affectionate, playful nature and their agility and speed.",171,Italian Greyhound
+"This medium-sized Whippet breed has a slender, streamlined body, a short coat, and a gentle, friendly temperament. They were originally bred for hunting small game and racing in England and are known for their incredible speed and agility.",172,Whippet
+"This medium-sized Ibizan Hound breed has a slender, elegant body, large, erect ears, and a short or wirehaired coat. They were originally bred for hunting rabbits on the island of Ibiza and are known for their agility, speed, and keen sense of sight and smell.",173,Ibizan Hound
+"This medium-sized Norwegian Elkhound breed has a thick, gray coat, a muscular body, and a friendly, loyal temperament. They were originally bred for hunting large game, such as elk and bears, in Norway and are known for their endurance, intelligence, and strong sense of smell.",174,Norwegian Elkhound
+"This large Otterhound breed has a rough, shaggy coat, a powerful body, and a friendly, boisterous temperament. They were originally bred for hunting otters in England and are known for their excellent sense of smell, strong swimming abilities, and endurance.",175,Otterhound
+"This elegant, Saluki to large-sized dog breed has a slender body, long legs, and a silky, smooth or feathered coat. They were originally bred for hunting in the deserts of the Middle East and are known for their incredible speed, agility, and endurance.",176,Saluki
+"This large Scottish Deerhound breed has a rough, wiry coat, a muscular body, and a gentle, dignified temperament. They were originally bred for hunting red deer in Scotland and are known for their speed, agility, and endurance.",177,Scottish Deerhound
+"This large Weimaraner breed has a sleek, silver-gray coat, a muscular body, and a friendly, energetic temperament. They were originally bred for hunting large game, such as deer and boar, in Germany and are known for their intelligence, stamina, and strong sense of smell.",178,Weimaraner
+"This medium-sized Staffordshire Bull Terrier breed has a muscular, stocky body, a short coat, and a friendly, affectionate temperament. They were originally bred for bull-baiting and dogfighting in England but have become popular companion animals due to their loyalty and gentle nature with humans.",179,Staffordshire Bull Terrier
+"This medium-sized American Staffordshire Terrier breed has a muscular body, a short, glossy coat, and a friendly, confident temperament. They were originally bred for bull-baiting and dogfighting but have become popular companion animals due to their loyalty, intelligence, and courage.",180,American Staffordshire Terrier
+"This medium-sized Bedlington Terrier breed has a distinctive, curly, lamb-like coat, a slender body, and a playful, affectionate temperament. They were originally bred for hunting small game, such as rabbits and rats, in England and are known for their agility, speed, and strong prey drive.",181,Bedlington Terrier
+"This small Border Terrier breed has a wiry, double coat, a sturdy body, and a friendly, lively temperament. They were originally bred for hunting foxes and other small game in the border region between England and Scotland and are known for their intelligence, agility, and stamina.",182,Border Terrier
+"This medium-sized Kerry Blue Terrier breed has a wavy, blue-gray coat, a strong, muscular body, and a friendly, spirited temperament. They were originally bred for hunting small game and herding livestock in Ireland and are known for their intelligence, agility, and loyalty.",183,Kerry Blue Terrier
+"This medium-sized Irish Terrier breed has a dense, wiry coat, a muscular body, and a friendly, courageous temperament. They were originally bred for hunting small game and guarding livestock in Ireland and are known for their intelligence, agility, and strong prey drive.",184,Irish Terrier
+"This small Norfolk Terrier breed has a wiry, double coat, a compact body, and a friendly, outgoing temperament. They were originally bred for hunting small game, such as rats and foxes, in England and are known for their intelligence, agility, and courage.",185,Norfolk Terrier
+"This small dog breed has a wiry, double coat, a compact body, and a friendly, outgoing temperament. They were originally bred for hunting small game, such as rats and foxes, in England and are known for their intelligence, agility, and courage. The main difference between the Norwich and Norfolk Terriers is the shape of their ears, with Norwich Terriers having erect ears and Norfolk Terriers having drop ears.",186,Norwich Terrier
+"This small Yorkshire Terrier breed has a long, silky coat, a compact body, and a friendly, affectionate temperament. They were originally bred for hunting rats in textile mills in England and have become popular companion animals due to their intelligence, agility, and devotion to their owners.",187,Yorkshire Terrier
+"This medium-sized Wire Fox Terrier breed has a dense, wiry coat, a sturdy body, and a friendly, energetic temperament. They were originally bred for hunting foxes and other small game in England and are known for their intelligence, agility, and strong prey drive.",188,Wire Fox Terrier
+"This small Lakeland Terrier breed has a thick, wiry coat, a sturdy body, and a friendly, lively temperament. They were originally bred for hunting foxes and other small game in the Lake District of England and are known for their intelligence, agility, and courage.",189,Lakeland Terrier
+"This small Sealyham Terrier breed has a thick, wiry coat, a sturdy body, and a friendly, outgoing temperament. They were originally bred for hunting small game, such as rats and badgers, in Wales and are known for their intelligence, agility, and determination.",190,Sealyham Terrier
+"This Airedale Terrier to large-sized dog breed has a dense, wiry coat, a strong, muscular body, and a friendly, confident temperament. They were originally bred for hunting small game and guarding livestock in England and are known for their intelligence, versatility, and loyalty.",191,Airedale Terrier
+"This small Cairn Terrier breed has a shaggy, weather-resistant coat, a sturdy body, and a friendly, playful temperament. They were originally bred for hunting small game, such as rats and foxes, in Scotland and are known for their intelligence, agility, and courage.",192,Cairn Terrier
+"This small Australian Terrier breed has a rough, shaggy coat, a sturdy body, and a friendly, spirited temperament. They were originally bred for hunting small game and herding livestock in Australia and are known for their intelligence, agility, and loyalty.",193,Australian Terrier
+"This small Dandie Dinmont Terrier breed has a unique, elongated body, a distinctive topknot of hair on the head, and a friendly, intelligent temperament. They were originally bred for hunting small game, such as otters and badgers, in Scotland and are known for their determination, courage, and strong prey drive.",194,Dandie Dinmont Terrier
+"This small Boston Terrier breed has a smooth, brindle or black coat with distinctive white markings, a compact body, and a friendly, outgoing temperament. They were originally bred for dogfighting in the United States but have become popular companion animals due to their intelligence, affection, and adaptability.",195,Boston Terrier
+"This small Miniature Schnauzer breed has a distinctive beard, bushy eyebrows, and a wiry coat. They were originally bred for hunting rats and other small game in Germany and are known for their intelligence, agility, and alert nature.",196,Miniature Schnauzer
+"This large Giant Schnauzer breed has a dense, wiry coat, a strong, muscular body, and a friendly, confident temperament. They were originally bred for herding and guarding livestock in Germany and are known for their intelligence, versatility, and loyalty.",197,Giant Schnauzer
+"This medium-sized Standard Schnauzer breed has a wiry coat, a strong, square build, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Germany and are known for their versatility, loyalty, and agility.",198,Standard Schnauzer
+"This small Scottish Terrier breed has a distinctive, long, wiry coat, a sturdy body, and a confident, independent temperament. They were originally bred for hunting small game, such as rats and badgers, in Scotland and are known for their intelligence, courage, and strong prey drive.",199,Scottish Terrier
+"This medium-sized Tibetan Terrier breed has a thick, shaggy coat, a sturdy body, and a friendly, gentle temperament. They were originally bred as companion and watchdogs in Tibet and are known for their intelligence, agility, and loyalty.",200,Tibetan Terrier
+"This small Australian Silky Terrier breed has a long, silky coat, a compact body, and a friendly, spirited temperament. They were originally bred for hunting small game and as companion animals in Australia and are known for their intelligence, agility, and affection.",201,Australian Silky Terrier
+"This medium-sized Soft-coated Wheaten Terrier breed has a soft, wavy, wheat-colored coat, a sturdy body, and a friendly, playful temperament. They were originally bred for herding and guarding livestock in Ireland and are known for their intelligence, versatility, and loyalty.",202,Soft-coated Wheaten Terrier
+"This small West Highland White Terrier breed has a thick, white, double coat, a compact body, and a friendly, confident temperament. They were originally bred for hunting small game, such as rats and badgers, in Scotland and are known for their intelligence, courage, and strong prey drive.",203,West Highland White Terrier
+"This small Lhasa Apso breed has a long, dense coat, a sturdy body, and a friendly, independent temperament. They were originally bred as companion and watchdogs in Tibet and are known for their intelligence, loyalty, and alertness.",204,Lhasa Apso
+"This Flat-Coated Retriever to large-sized dog breed has a dense, glossy, black or liver-colored coat, a strong, muscular body, and a friendly, outgoing temperament. They were originally bred for retrieving game in England and are known for their intelligence, versatility, and strong swimming ability.",205,Flat-Coated Retriever
+"This Curly-coated Retriever to large-sized dog breed has a tight, curly coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for retrieving game in England and are known for their intelligence, versatility, and strong swimming ability.",206,Curly-coated Retriever
+"This Golden Retriever to large-sized dog breed has a dense, water-repellent, golden coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for retrieving game in Scotland and are known for their intelligence, versatility, and strong swimming ability.",207,Golden Retriever
+"This Labrador Retriever to large-sized dog breed has a dense, short coat, a strong, muscular body, and a friendly, outgoing temperament. They were originally bred for retrieving game in Newfoundland and are known for their intelligence, versatility, and strong swimming ability.",208,Labrador Retriever
+"This Chesapeake Bay Retriever to large-sized dog breed has a dense, wavy, water-repellent coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for retrieving game in the Chesapeake Bay region of the United States and are known for their intelligence, versatility, and strong swimming ability.",209,Chesapeake Bay Retriever
+"This German Shorthaired Pointer to large-sized dog breed has a short, dense coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for hunting and pointing game in Germany and are known for their versatility, agility, and strong sense of smell.",210,German Shorthaired Pointer
+"This medium-sized Vizsla breed has a short, golden-rust coat, a lean, muscular body, and a friendly, energetic temperament. They were originally bred for hunting and pointing game in Hungary and are known for their intelligence, agility, and strong sense of smell.",211,Vizsla
+"This English Setter to large-sized dog breed has a long, silky coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for hunting and pointing game in England and are known for their intelligence, agility, and strong sense of smell.",212,English Setter
+"This Irish Setter to large-sized dog breed has a long, silky, red coat, a strong, muscular body, and a friendly, playful temperament. They were originally bred for hunting and pointing game in Ireland and are known for their intelligence, agility, and strong sense of smell.",213,Irish Setter
+"This Gordon Setter to large-sized dog breed has a long, silky, black and tan coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for hunting and pointing game in Scotland and are known for their intelligence, agility, and strong sense of smell.",214,Gordon Setter
+"This medium-sized Brittany dog breed has a dense, wavy coat, a strong, agile body, and a friendly, energetic temperament. They were originally bred for hunting and pointing game in France and are known for their intelligence, agility, and strong sense of smell.",215,Brittany dog
+"This Clumber Spaniel to large-sized dog breed has a long, dense, white coat with lemon or orange markings, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for hunting and retrieving game in England and are known for their intelligence, determination, and strong sense of smell.",216,Clumber Spaniel
+"This medium-sized English Springer Spaniel breed has a long, silky coat, a strong, agile body, and a friendly, energetic temperament. They were originally bred for hunting and flushing game in England and are known for their intelligence, agility, and strong sense of smell.",217,English Springer Spaniel
+"This medium-sized Welsh Springer Spaniel breed has a long, silky, red and white coat, a strong, agile body, and a friendly, energetic temperament. They were originally bred for hunting and flushing game in Wales and are known for their intelligence, agility, and strong sense of smell.",218,Welsh Springer Spaniel
+"This small to medium-sized Cocker Spaniel breed has a long, silky coat, a compact body, and a friendly, affectionate temperament. They were originally bred for hunting and flushing game in England and are known for their intelligence, agility, and strong sense of smell.",219,Cocker Spaniel
+"This medium-sized Sussex Spaniel breed has a long, silky, golden-liver coat, a sturdy, muscular body, and a friendly, gentle temperament. They were originally bred for hunting and flushing game in England and are known for their intelligence, determination, and strong sense of smell.",220,Sussex Spaniel
+"This Irish Water Spaniel to large-sized dog breed has a dense, curly, liver-colored coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for hunting and retrieving game in Ireland and are known for their intelligence, versatility, and strong swimming ability.",221,Irish Water Spaniel
+"This large Kuvasz breed has a dense, white, weather-resistant coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for guarding livestock and property in Hungary and are known for their intelligence, loyalty, and courage.",222,Kuvasz
+"This small Schipperke breed has a dense, black coat, a fox-like face, and a friendly, curious temperament. They were originally bred for herding and guarding on canal boats in Belgium and are known for their intelligence, agility, and alertness.",223,Schipperke
+"This Groenendael dog to large-sized dog breed, also known as the Belgian Sheepdog, has a long, dense, black coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Belgium and are known for their intelligence, agility, and loyalty.",224,Groenendael dog
+"This medium to large-sized dog breed, also known as the Belgian Malinois, has a short, fawn-colored coat with a black mask, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Belgium and are known for their intelligence, agility, and loyalty.",225,Malinois
+"This large Briard breed has a long, wavy, weather-resistant coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in France and are known for their intelligence, loyalty, and courage.",226,Briard
+"This medium-sized Australian Kelpie breed has a short, weather-resistant coat, a lean, muscular body, and a friendly, energetic temperament. They were originally bred for herding and driving livestock in Australia and are known for their intelligence, agility, and stamina.",227,Australian Kelpie
+"This large Komondor breed has a distinctive, long, corded coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for guarding livestock and property in Hungary and are known for their intelligence, loyalty, and courage.",228,Komondor
+"This large Old English Sheepdog breed has a thick, shaggy, weather-resistant coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in England and are known for their intelligence, agility, and loyalty.",229,Old English Sheepdog
+"This small to medium-sized Shetland Sheepdog breed has a long, thick, weather-resistant coat, a sturdy, agile body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in the Shetland Islands and are known for their intelligence, agility, and loyalty.",230,Shetland Sheepdog
+"This collie to large-sized dog breed has a long, weather-resistant coat, a strong, agile body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Scotland and are known for their intelligence, agility, and loyalty.",231,collie
+"This medium-sized Border Collie breed has a weather-resistant coat, a lean, agile body, and a friendly, intelligent temperament. They were originally bred for herding and driving livestock in the border region between England and Scotland and are known for their intelligence, agility, and exceptional herding ability.",232,Border Collie
+"This large Bouvier des Flandres dog breed has a thick, weather-resistant coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for herding and guarding livestock in the Flanders region of Belgium and are known for their intelligence, loyalty, and courage.",233,Bouvier des Flandres dog
+"This Rottweiler to large-sized dog breed has a short, black coat with rust-colored markings, a strong, muscular body, and a friendly, protective temperament. They were originally bred for herding and guarding livestock in Germany and are known for their intelligence, loyalty, and courage.",234,Rottweiler
+"This German Shepherd Dog to large-sized dog breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Germany and are known for their intelligence, versatility, and loyalty.",235,German Shepherd Dog
+"This Dobermann to large-sized dog breed has a short, sleek coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for protection and guarding in Germany and are known for their intelligence, loyalty, and courage.",236,Dobermann
+"This small Miniature Pinscher breed has a short, sleek coat, a compact, muscular body, and a friendly, spirited temperament. They were originally bred for hunting small game and as companion animals in Germany and are known for their intelligence, agility, and courage.",237,Miniature Pinscher
+"This large Greater Swiss Mountain Dog breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for herding and guarding livestock in Switzerland and are known for their intelligence, versatility, and loyalty.",238,Greater Swiss Mountain Dog
+"This large Bernese Mountain Dog breed has a long, thick, weather-resistant coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for herding and guarding livestock in Switzerland and are known for their intelligence, versatility, and loyalty.",239,Bernese Mountain Dog
+"This medium-sized Appenzeller Sennenhund breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for herding and guarding livestock in Switzerland and are known for their intelligence, agility, and loyalty.",240,Appenzeller Sennenhund
+"This medium-sized Entlebucher Sennenhund breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for herding and guarding livestock in Switzerland and are known for their intelligence, agility, and loyalty.",241,Entlebucher Sennenhund
+"This Boxer to large-sized dog breed has a short, sleek coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for protection and guarding in Germany and are known for their intelligence, loyalty, and courage.",242,Boxer
+"This large Bullmastiff breed has a short, dense coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for guarding estates and game preserves in England and are known for their intelligence, loyalty, and courage.",243,Bullmastiff
+"This large Tibetan Mastiff breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for guarding livestock and property in Tibet and are known for their intelligence, loyalty, and courage.",244,Tibetan Mastiff
+"This small French Bulldog breed has a short, sleek coat, a muscular, compact body, and a friendly, affectionate temperament. They were originally bred for companionship in France and are known for their intelligence, adaptability, and charm.",245,French Bulldog
+"This giant Great Dane breed has a short, sleek coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for hunting large game and guarding estates in Germany and are known for their intelligence, loyalty, and courage.",246,Great Dane
+"This giant St. Bernard breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for rescue and guarding livestock in the Swiss Alps and are known for their intelligence, loyalty, and courage.",247,St. Bernard
+"This term usually refers to the Siberian Husky or the Alaskan Malamute, both medium to large-sized dog breeds with dense, weather-resistant coats, strong, muscular bodies, and friendly, energetic temperaments. They were originally bred for pulling sleds and hunting in the Arctic and are known for their intelligence, endurance, and loyalty.",248,husky
+"This large Alaskan Malamute breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for pulling heavy sleds and hunting in the Arctic and are known for their intelligence, endurance, and loyalty.",249,Alaskan Malamute
+"This medium-sized Siberian Husky breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for pulling sleds and hunting in Siberia and are known for their intelligence, endurance, and loyalty.",250,Siberian Husky
+"This medium-sized Dalmatian breed has a short, white coat with black or liver-colored spots, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for carriage dog and guarding duties in Croatia and are known for their intelligence, agility, and stamina.",251,Dalmatian
+"This small Affenpinscher breed has a shaggy, wiry coat, a compact, muscular body, and a friendly, curious temperament. They were originally bred for hunting small game and as companion animals in Germany and are known for their intelligence, agility, and courage.",252,Affenpinscher
+"This medium-sized Basenji breed has a short, sleek coat, a lean, muscular body, and a friendly, independent temperament. They were originally bred for hunting small game in Africa and are known for their intelligence, agility, and unique, yodel-like vocalizations.",253,Basenji
+"This small pug breed has a short, wrinkled coat, a compact, muscular body, and a friendly, affectionate temperament. They were originally bred for companionship in China and are known for their intelligence, adaptability, and charm.",254,pug
+"This giant Leonberger breed has a long, weather-resistant coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for guarding livestock and property in Germany and are known for their intelligence, loyalty, and courage.",255,Leonberger
+"This giant Newfoundland dog breed has a dense, weather-resistant coat, a strong, muscular body, and a friendly, gentle temperament. They were originally bred for water rescue and hauling duties in Newfoundland and are known for their intelligence, loyalty, and swimming ability.",256,Newfoundland dog
+"This large Great Pyrenees dog breed has a thick, weather-resistant coat, a strong, muscular body, and a friendly, protective temperament. They were originally bred for guarding livestock and property in the Pyrenees Mountains and are known for their intelligence, loyalty, and courage.",257,Great Pyrenees dog
+"This medium-sized Samoyed breed has a thick, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for pulling sleds and hunting in Siberia and are known for their intelligence, endurance, and loyalty.",258,Samoyed
+"This small Pomeranian breed has a thick, fluffy coat, a compact, muscular body, and a friendly, spirited temperament. They were originally bred for companionship in Pomerania and are known for their intelligence, agility, and charm.",259,Pomeranian
+"This medium-sized Chow Chow breed has a thick, weather-resistant coat, a strong, muscular body, and a friendly, independent temperament. They were originally bred for hunting, herding, and guarding in China and are known for their intelligence, loyalty, and distinctive blue-black tongue.",260,Chow Chow
+"This medium-sized Keeshond breed has a thick, weather-resistant coat, a strong, muscular body, and a friendly, energetic temperament. They were originally bred for companionship and guarding duties in the Netherlands and are known for their intelligence, agility, and loyalty.",261,Keeshond
+"This small brussels griffon breed has a distinctive, wiry coat, a compact, muscular body, and a friendly, affectionate temperament. They were originally bred for hunting small game and as companion animals in Belgium and are known for their intelligence, agility, and charm.",262,brussels griffon
+"This small Pembroke Welsh Corgi breed has a short, weather-resistant coat, a long, low-set body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Wales and are known for their intelligence, agility, and loyalty.",263,Pembroke Welsh Corgi
+"This small Cardigan Welsh Corgi breed has a medium-length, weather-resistant coat, a long, low-set body, and a friendly, intelligent temperament. They were originally bred for herding and guarding livestock in Wales and are known for their intelligence, agility, and loyalty.",264,Cardigan Welsh Corgi
+"This small Toy Poodle breed has a curly, non-shedding coat, a compact, muscular body, and a friendly, intelligent temperament. They were originally bred for companionship in France and are known for their intelligence, agility, and charm.",265,Toy Poodle
+"This medium-sized Miniature Poodle breed has a curly, non-shedding coat, a compact, muscular body, and a friendly, intelligent temperament. They were originally bred for hunting small game and as companion animals in France and are known for their intelligence, agility, and charm.",266,Miniature Poodle
+"This large Standard Poodle breed has a curly, non-shedding coat, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for hunting waterfowl in France and are known for their intelligence, versatility, and charm.",267,Standard Poodle
+"This small to large-sized Mexican hairless dog (xoloitzcuintli) breed has a hairless or coated variety, a strong, muscular body, and a friendly, intelligent temperament. They were originally bred for companionship and hunting small game in Mexico and are known for their intelligence, agility, and loyalty.",268,Mexican hairless dog (xoloitzcuintli)
+"A large carnivorous grey wolf with a thick fur coat that ranges in color from white to black, grey wolves are known for their powerful jaws, strong limbs, and keen sense of smell. They are highly social animals, living in packs led by an alpha pair.",269,grey wolf
+"A subspecies of the grey wolf, the Alaskan tundra wolf is found in the Arctic regions of Alaska and Canada. It has a thick, white or light grey coat, well-suited for the cold environment, and is known for its large size and adaptability.",270,Alaskan tundra wolf
+"The red red wolf or maned wolf is a critically endangered species native to the southeastern United States, with a reddish-tawny coat and a lean body. The maned wolf, native to South America, has a reddish coat and long legs, resembling a large fox rather than a wolf.",271,red wolf or maned wolf
+"A medium-sized canine native to North America, coyotes have a greyish-brown coat, large ears, and a bushy tail. They are highly adaptable and can be found in a variety of habitats.",272,coyote
+"A wild dog native to Australia, dingoes have a sandy or reddish-brown coat, pointed ears, and a bushy tail. They are known for their intelligence and resourcefulness.",273,dingo
+"A wild dog native to Asia, dholes have a reddish-brown coat and a lean body. They are social animals, living in packs, and are known for their hunting prowess.",274,dhole
+"A highly social and endangered carnivore native to Africa, African wild dogs have a unique, patchy coat of black, white, and yellowish-brown fur. They are known for their incredible endurance and strong pack mentality.",275,African wild dog
+"A carnivorous mammal native to Africa and Asia, hyenas have a stocky body, a sloping back, and a spotted or striped coat. They are known for their powerful jaws and bone-crushing ability.",276,hyena
+"A small, carnivorous mammal with a distinctive reddish-brown coat, white underparts, and a bushy tail, red foxes are found throughout the Northern Hemisphere and are known for their cunning and adaptability.",277,red fox
+"A small fox native to North America, kit foxes have a greyish coat, large ears, and a bushy tail. They are known for their agility and ability to thrive in arid environments.",278,kit fox
+"A small fox native to the Arctic regions, Arctic foxes have a thick, white coat in the winter that changes to brown or grey in the summer. They are known for their ability to survive in extreme cold.",279,Arctic fox
+"A small fox native to North and Central America, grey foxes have a grizzled grey coat, a black-tipped tail, and the ability to climb trees.",280,grey fox
+"A domestic cat with a distinctive striped or marbled coat pattern, tabby cats come in various colors and are known for their playful and affectionate nature.",281,tabby cat
+"A colloquial tiger cat for a domestic cat with a striped coat pattern resembling that of a tiger, often used to describe tabby cats.",282,tiger cat
+"A domestic cat breed known for its long, silky coat, flat face, and large, round eyes, Persian cats are affectionate and gentle companions.",283,Persian cat
+"A domestic cat breed with a sleek body, short coat, and striking blue almond-shaped eyes, Siamese cats are known for their outgoing and vocal nature.",284,Siamese cat
+"A domestic cat breed with a short, spotted coat, the Egyptian Mau is known for its striking appearance, athletic build, and friendly nature. They have a unique, random spot pattern and are considered to be one of the oldest domesticated cat breeds.",285,Egyptian Mau
+"Also known as a mountain lion or puma, the cougar is a large, powerful cat native to the Americas. It has a tawny coat, strong limbs, and a long tail, and is known for its stealth and agility.",286,cougar
+"A medium-sized wild cat found in the forests of North America, Europe, and Asia, lynxes have a short, thick coat, tufted ears, and a short tail. They are known for their incredible camouflage skills and elusive nature.",287,lynx
+"A large, powerful cat native to Africa and Asia, leopards are known for their distinctive golden-yellow coat with black spots and rosettes. They are skilled climbers and are known for their ability to adapt to a variety of habitats.",288,leopard
+"A rare and elusive large cat native to the mountainous regions of Central and South Asia, snow leopards have a thick, smoky-grey coat with black spots and rosettes. They are known for their incredible agility in their mountainous habitat.",289,snow leopard
+"A large, powerful cat native to the Americas, jaguars have a stocky build and a golden-yellow coat with black spots and rosettes. They are known for their powerful bite and ability to adapt to various habitats, including rainforests and grasslands.",290,jaguar
+"Known as the ""king of the jungle,"" lions are large, powerful cats native to Africa and parts of Asia. They have a tawny coat, with males sporting a distinctive mane. Lions are social animals, living in groups called prides.",291,lion
+"The largest of the big cats, tigers are native to Asia and are known for their striking orange coat with black stripes. They are solitary animals, known for their power and stealth.",292,tiger
+"The fastest land animal, cheetahs are native to Africa and parts of the Middle East. They have a slender build, a golden-yellow coat with black spots, and distinctive black tear lines on their face. Cheetahs are known for their incredible speed and agility.",293,cheetah
+"A large omnivorous mammal found in North America, Europe, and Asia, brown bears have a thick, shaggy brown coat and a humped shoulder. They are known for their strength and adaptability.",294,brown bear
+"A medium-sized bear native to North America, the American black bear has a thick, black or brown coat and is known for its adaptability and opportunistic feeding habits.",295,American black bear
+"A large bear native to the Arctic, polar bears have a thick, white coat that provides insulation and camouflage in their icy environment. They are known for their incredible swimming abilities and a diet primarily consisting of seals.",296,polar bear
+"A medium-sized bear native to the Indian subcontinent, the sloth bear has a shaggy, black coat, a white snout, and long, curved claws. They are known for their diet of termites and ants, which they extract using their specialized mouthparts.",297,sloth bear
+"A small, carnivorous mammal found in parts of Africa, Asia, and Europe, mongooses have a slender body, short legs, and a tapered snout. They are known for their agility and ability to kill venomous snakes.",298,mongoose
+"A small, social mammal native to Africa, meerkats have a slender body, a sandy-colored coat, and dark eye markings. They live in large, cooperative groups called mobs or clans and are known for their distinctive upright posture when on the lookout for predators.",299,meerkat
+"A tiger beetle of fast-running predatory beetles known for their striking color patterns and voracious appetite for other insects. They are found worldwide and are characterized by their large eyes and powerful, toothed mandibles.",300,tiger beetle
+"Also known as ladybug or lady beetles, these small, brightly colored beetles are found worldwide and are known for their round, often red or orange, wing covers with black spots. They are beneficial to gardeners as they consume aphids and other plant-eating pests.",301,ladybug
+"A large family of beetles, ground beetles are found worldwide and are known for their dark, shiny, and often metallic appearance. They are predatory insects, feeding on a variety of smaller insects and invertebrates.",302,ground beetle
+"A family of beetles characterized by their elongated antennae, which are often longer than their body. They are found worldwide and exhibit a variety of colors and patterns. Many longhorn beetles are considered pests, as their larvae can damage wood.",303,longhorn beetle
+"A large family of beetles that feed on leaves and plant material, leaf beetles are found worldwide and are known for their diverse colors and shapes. Some species are considered agricultural pests, as they can damage crops.",304,leaf beetle
+"A dung beetle of beetles that feed primarily on dung, these insects are found worldwide and play an important role in recycling nutrients and reducing the spread of parasites. They are known for their behavior of rolling dung into balls for feeding or laying their eggs.",305,dung beetle
+"A rhinoceros beetle of large, heavy-bodied beetles known for their impressive horns, which are used in battles with other males for territory and mates. They are found in tropical and subtropical regions around the world and are among the strongest animals relative to their size.",306,rhinoceros beetle
+"A large and diverse group of beetles characterized by their elongated snouts, weevils are found worldwide and are often considered pests due to their ability to damage stored grains, seeds, and crops.",307,weevil
+"A large fly of insects with two wings, flies are found worldwide and exhibit a wide range of behaviors and appearances. They are known for their compound eyes, which provide a wide field of vision, and their ability to transmit diseases.",308,fly
+"A group of flying insects known for their fuzzy bodies, bees are important pollinators that feed on nectar and pollen. They are found worldwide and are known for their social structure in species like honeybees and bumblebees.",309,bee
+"A highly social group of insects, ants are found worldwide and are known for their complex colonies and cooperative behavior. They are characterized by their elbowed antennae and a distinctive waist between their thorax and abdomen.",310,ant
+"A group of insects known for their powerful hind legs, which allow them to jump long distances, grasshoppers are found worldwide and feed on plants. They are characterized by their large eyes and antennae, and are known for their distinctive chirping sounds.",311,grasshopper
+"A cricket insect of insects related to grasshoppers, crickets are found worldwide and are known for their large hind legs and distinctive, often musical, chirping sounds. They are characterized by their long antennae and are commonly found in grassy or wooded areas.",312,cricket insect
+"A group of insects known for their elongated, stick-like bodies, which provide camouflage among vegetation. Stick insects are found in tropical and subtropical regions around the world and are herbivorous, feeding primarily on leaves.",313,stick insect
+"A large and diverse group of insects, cockroaches are found worldwide and are known for their flat, oval-shaped bodies and long antennae. Some species are considered pests due to their ability to infest human dwellings and spread diseases.",314,cockroach
+"A group of insects characterized by their elongated bodies, triangular heads, and raptorial front legs used for capturing prey. Praying mantises are found worldwide and are known for their predatory behavior and ability to camouflage among vegetation.",315,praying mantis
+"A group of insects known for their distinctive, often loud, calls produced by the males to attract mates. Cicadas are found worldwide and are characterized by their large, transparent wings and wide-set eyes.",316,cicada
+"A group of small, sap-sucking insects known for their ability to jump great distances. Leafhoppers are found worldwide and are characterized by their slender, wedge-shaped bodies and colorful markings. They can be pests to various plants.",317,leafhopper
+"A group of delicate, often green or brown insects known for their large, intricately veined wings. Lacewings are found worldwide and are beneficial to gardeners, as their larvae are voracious predators of aphids and other plant pests.",318,lacewing
+"A dragonfly of predatory insects characterized by their large, multifaceted eyes, elongated bodies, and two pairs of transparent wings. Dragonflies are found worldwide and are known for their incredible agility and speed in flight.",319,dragonfly
+"A damselfly of insects closely related to dragonflies, damselflies are characterized by their slender bodies, two pairs of transparent wings, and the ability to fold their wings over their abdomen when at rest. They are found worldwide and are also predatory.",320,damselfly
+"A striking red admiral butterfly species characterized by its dark wings with red bands and white spots. Red admiral butterflies are found in temperate regions of North America, Europe, and Asia and are known for their distinctive, colorful appearance.",321,red admiral butterfly
+"A ringlet butterfly of butterflies characterized by their brown wings with a pattern of rings or ""eyes"" on the undersides. Ringlet butterflies are found in various regions around the world and are known for their ability to blend in with their surroundings.",322,ringlet butterfly
+"A large, monarch butterfly and black butterfly known for its incredible long-distance migration between North America and Mexico. Monarch butterflies are found throughout North America, Central America, and parts of South America, and are known for their striking appearance and unique life cycle.",323,monarch butterfly
+"A common small white butterfly species characterized by its white wings with black tips and a small black spot on each forewing. Small white butterflies are found in Europe, Asia, and North Africa and are known for their ability to thrive in a variety of habitats.",324,small white butterfly
+"A sulphur butterfly of medium-sized butterflies known for their bright yellow or orange wings. Sulphur butterflies are found primarily in the Americas and are known for their swift, erratic flight patterns.",325,sulphur butterfly
+"A gossamer-winged butterfly of small butterflies characterized by their delicate, often brightly colored wings. Gossamer-winged butterflies are found worldwide and include species such as blues, coppers, and hairstreaks.",326,gossamer-winged butterfly
+"Also known as sea stars, these marine invertebrates are characterized by their radial symmetry and typically have five or more arms. Starfish are found in oceans worldwide and are known for their ability to regenerate lost limbs.",327,starfish
+"A group of marine invertebrates characterized by their round, spiny bodies. Sea urchins are found in oceans worldwide and are known for their unique mouthparts, called Aristotle's lantern, which they use to graze on algae and other organic material.",328,sea urchin
+"A group of marine invertebrates characterized by their elongated, soft, and flexible bodies. Sea cucumbers are found in oceans worldwide and are known for their ability to expel their internal organs as a defense mechanism.",329,sea cucumber
+"A group of small mammals characterized by their short, fluffy tails, which resemble a cotton ball. Cottontail rabbits are found throughout North and South America and are known for their ability to rapidly reproduce.",330,cottontail rabbit
+"A group of medium-sized mammals closely related to rabbits, hares are characterized by their long ears and powerful hind legs. Hares are found in various regions around the world and are known for their incredible speed and agility.",331,hare
+"A breed of domestic rabbit known for its long, silky fur, which is often used in the production of wool. Angora rabbits are originally from Ankara, Turkey, and are known for their gentle and docile temperament.",332,Angora rabbit
+"A group of small, short-tailed rodents known for their burrowing habits and cheek pouches used for carrying food. Hamsters are found in various regions around the world and are popular pets due to their small size and low maintenance.",333,hamster
+"A group of large rodents characterized by their sharp, needle-like quills, which they use as a defense mechanism. Porcupines are found in various regions around the world, including North and South America, Africa, and Asia.",334,porcupine
+"A large tree squirrel species native to North America, characterized by its reddish-brown fur and bushy tail. Fox squirrels are known for their ability to adapt to a variety of habitats, including urban environments.",335,fox squirrel
+"A group of large ground-dwelling squirrels characterized by their stocky bodies and short, bushy tails. Marmots are found in various regions around the world, including North America, Europe, and Asia, and are known for their extensive burrow systems and social behavior.",336,marmot
+"A large, semi-aquatic rodent known for its flat, paddle-like tail and large, sharp front teeth. Beavers are native to North America and Eurasia and are known for their ability to construct dams and lodges using tree branches and mud.",337,beaver
+"A small, domesticated rodent native to South America, known for its round body, short legs, and lack of a tail. Guinea pigs are popular pets due to their friendly nature and low maintenance requirements.",338,guinea pig
+A common sorrel horse of horse breed characterized by their reddish-brown coat with a flaxen mane and tail. Sorrel horses are found in various horse breeds and are known for their striking appearance.,339,common sorrel horse
+"A group of African mammals known for their distinctive black and white striped coats. There are three species of zebras: the plains zebra, the mountain zebra, and the Grevy's zebra. Zebras are social animals that live in herds.",340,zebra
+"A domesticated mammal with a stout body, short legs, and a short, curly tail. Pigs are highly intelligent animals that have been bred for various purposes, including food, leather, and as pets.",341,pig
+"A species of wild pig native to Eurasia and North Africa. Wild boars have longer legs, a more muscular body, and larger tusks than domestic pigs. They are omnivorous and are known for their aggressive behavior.",342,wild boar
+"A wild pig species native to Africa, known for its large, curved tusks and distinctive facial features, including warts on their faces. Warthogs are primarily grazers and live in savannas and grasslands.",343,warthog
+"A large, semi-aquatic mammal native to sub-Saharan Africa. The hippopotamus is the third-largest land mammal and is known for its barrel-shaped body, large mouth, and thick skin. Hippos spend most of their time in water and are herbivores.",344,hippopotamus
+"A large domesticated bovine, usually a castrated male, used for labor, such as pulling plows or carts. Oxen are known for their strength and endurance and have been used in agriculture for centuries.",345,ox
+"A large mammal native to Asia, characterized by its large, curved horns and semi-aquatic lifestyle. Water buffaloes are used for plowing, transportation, and as a source of milk and meat.",346,water buffalo
+"A large, shaggy-haired mammal native to North America and Europe. Bison are the heaviest land animals in North America and are known for their large hump, thick fur, and powerful build.",347,bison
+"A male ram (adult male sheep), characterized by its curved horns and thick, woolly coat. Rams are used for breeding purposes in sheep farming.",348,ram (adult male sheep)
+"A species of wild sheep native to North America, known for its large, curved horns. Bighorn sheep live in mountainous regions and are well-adapted to steep, rugged terrain.",349,bighorn sheep
+"A species of wild goat native to the European Alps, known for its large, curved horns and agile climbing abilities. Alpine ibexes are herbivores that primarily graze on grasses and shrubs.",350,Alpine ibex
+"A large African antelope characterized by its elongated head, large horns, and distinctive sloping back. Hartebeests are fast runners and primarily graze on grasses.",351,hartebeest
+"A medium-sized African impala (antelope) known for its slender body, long legs, and curved horns. Impalas are fast runners and agile jumpers, primarily grazing on grasses and leaves.",352,impala (antelope)
+"A group of small to medium-sized antelopes native to Africa and Asia, known for their slender bodies, long legs, and curved horns. Gazelles are fast runners and primarily graze on grasses and leaves.",353,gazelle
+"Also known as the dromedary camel, this species has one hump and is native to the deserts of the Middle East and North Africa. Arabian camels are used for transportation, milk, and meat.",354,arabian camel
+"A domesticated South American mammal, known for its long neck, thick woolly coat, and unique facial features. Llamas are used for their wool, meat, and as pack animals.",355,llama
+"A small, slender carnivorous mammal belonging to the Mustelidae family. Weasels are found in various regions around the world and are known for their agility and ferocity.",356,weasel
+"A small, semi-aquatic mammal belonging to the Mustelidae family, characterized by its sleek, dark fur. Minks are found in North America and Eurasia and are primarily known for their fur, which is used in the production of clothing.",357,mink
+"A small, nocturnal carnivorous mammal native to Europe and western Asia, belonging to the Mustelidae family. European polecats are known for their distinctive facial markings and strong musk.",358,European polecat
+"A small, carnivorous mammal native to North America and a member of the Mustelidae family. Black-footed ferrets are an endangered species known for their black face mask and black feet.",359,black-footed ferret
+"A group of semi-aquatic mammals belonging to the Mustelidae family, known for their playful behavior and ability to swim. Otters are found in various regions around the world and are skilled predators that primarily eat fish and invertebrates.",360,otter
+"A small, nocturnal mammal skunk to North and South America, characterized by its black and white fur and ability to spray a strong-smelling liquid from its anal glands as a defense mechanism.",361,skunk
+"A group of carnivorous mammals belonging to the Mustelidae family, characterized by their stocky bodies, short legs, and distinctive facial markings. Badgers are found in various regions around the world and are known for their powerful digging abilities.",362,badger
+"A group of mammals characterized by their leathery, armored shell and long snouts. Armadillos are native to the Americas and are known for their ability to roll into a ball as a defense mechanism.",363,armadillo
+"A slow-moving, arboreal mammal native to Central and South America, characterized by its long limbs, small head, and three-toed feet. Three-toed sloths are known for their slow metabolism and ability to hang upside down from tree branches.",364,three-toed sloth
+"A large, arboreal ape native to the rainforests of Borneo and Sumatra, characterized by its long arms, reddish-brown fur, and intelligent behavior. Orangutans are an endangered species and are known for their tool use and problem-solving abilities.",365,orangutan
+"The largest of the great apes, native to the forests of central Africa. Gorillas are characterized by their large size, muscular build, and predominantly herbivorous diet. There are two species of gorillas: the eastern gorilla and the western gorilla.",366,gorilla
+"A species of great ape native to the forests of central and western Africa, characterized by their black fur, large ears, and high level of intelligence. Chimpanzees are known for their tool use, complex social behavior, and close genetic relationship to humans.",367,chimpanzee
+"A group of small, arboreal apes native to the forests of Southeast Asia, characterized by their long arms, small body size, and distinctive calls. Gibbons are known for their agile movement through the forest canopy and monogamous social structure.",368,gibbon
+"A species of gibbon native to the forests of Malaysia and Sumatra, characterized by its large size, black fur, and inflatable throat sac. Siamangs are known for their loud, complex vocalizations and their monogamous social structure.",369,siamang
+"A group of small to medium-sized, brightly colored monkeys native to the forests of Africa. Guenons are characterized by their distinctive facial markings and diverse range of habitats.",370,guenon
+"A ground-dwelling monkey native to Africa, characterized by its long limbs, slender body, and reddish-brown fur. Patas monkeys are known for their incredible speed, reaching up to 34 miles per hour (55 km/h) when running.",371,patas monkey
+"A group of large, ground-dwelling monkeys native to Africa and the Arabian Peninsula, characterized by their large size, powerful build, and distinctive facial features. Baboons are known for their complex social structure and adaptability to various habitats.",372,baboon
+"A group of medium-sized monkeys found in Asia, North Africa, and Gibraltar, characterized by their diverse range of habitats, social behavior, and adaptability to human environments. Some well-known species include the rhesus macaque and the Japanese macaque.",373,macaque
+"A group of leaf-eating monkeys native to South and Southeast Asia, characterized by their slender bodies, long tails, and distinctive facial features. Langurs are known for their arboreal lifestyle and complex social structure.",374,langur
+"A group of leaf-eating monkeys native to Africa, characterized by their striking black and white fur and long, bushy tails. Black-and-white colobus monkeys are arboreal and live in complex social groups.",375,black-and-white colobus
+"A large, arboreal monkey native to the island of Borneo, characterized by its distinctive large, elongated nose and potbellied appearance. Proboscis monkeys are known for their semi-aquatic lifestyle and unique vocalizations.",376,proboscis monkey
+"A group of small, arboreal monkeys native to South and Central America, characterized by their small size, distinctive facial features, and tufted ears. Marmosets are known for their complex vocalizations and cooperative social structure.",377,marmoset
+"A medium-sized monkey native to the forests of Central and South America, characterized by its distinctive white face and black body. White-headed capuchins are known for their high level of intelligence, dexterity, and adaptability to various habitats.",378,white-headed capuchin
+"A group of large, arboreal monkeys native to Central and South America, characterized by their loud, distinctive vocalizations and prehensile tails. Howler monkeys are known for their folivorous diet and complex social structure.",379,howler monkey
+"A group of small, arboreal monkeys native to South America, characterized by their long, bushy tails and shy behavior. Titi monkeys are known for their monogamous social structure and complex vocalizations.",380,titi monkey
+"A large, arboreal monkey native to Central America, characterized by its long limbs, prehensile tail, and agile climbing abilities. Geoffroy's spider monkeys are known for their frugivorous diet and complex social structure.",381,Geoffroy's spider monkey
+"A small, arboreal monkey native to South America, characterized by its short fur, large eyes, and distinctive facial features. Common squirrel monkeys are known for their high level of intelligence and social behavior.",382,common squirrel monkey
+"A medium-sized prosimian native to Madagascar, characterized by its distinctive black and white striped tail and social behavior. Ring-tailed lemurs are known for their loud vocalizations and sunbathing habits.",383,ring-tailed lemur
+"A large, arboreal lemur native to Madagascar, characterized by its black and white fur, short tail, and powerful legs. Indris are known for their loud, haunting vocalizations and monogamous social structure.",384,indri
+"A large herbivore native to Southeast Asia, characterized by its massive size, long trunk, and smaller ears compared to its African counterpart. Asian elephants are known for their high level of intelligence, complex social structure, and cultural significance in many Asian countries.",385,Asian elephant
+"The largest land animal native to Africa, characterized by its massive size, long trunk, and large ears. African bush elephants are known for their high level of intelligence, complex social structure, and important role in African ecosystems.",386,African bush elephant
+"A small, arboreal mammal native to the eastern Himalayas and southwestern China, characterized by its red fur, distinctive facial markings, and bushy tail. Red pandas are known for their shy behavior and bamboo-based diet.",387,red panda
+"A large, bear-like mammal native to the mountains of central China, characterized by its distinctive black and white fur and bamboo-based diet. Giant pandas are known for their conservation status and as a symbol of wildlife conservation.",388,giant panda
+"A predatory fish native to the coastal waters of the Southern Hemisphere, characterized by its long, slender body and sharp teeth. Snoek fish are known for their speed and agility, as well as their importance as a commercial fish species.",389,snoek fish
+"A group of elongated, snake-like fish found in both freshwater and saltwater environments around the world. Eels are known for their unique life cycle, including a larval stage called ""leptocephalus.""",390,eel
+"Also known as Coho salmon, a species of Pacific salmon native to North America and eastern Asia, characterized by its silver color and powerful swimming abilities. Silver salmon are known for their anadromous life cycle and importance as a commercial fish species.",391,silver salmon
+"A species of marine angelfish native to the tropical waters of the western Atlantic Ocean, characterized by its bright yellow and black coloration. Rock beauty fish are known for their preference for coral reef environments and their omnivorous diet.",392,rock beauty fish
+"A group of small, brightly colored fish native to the warm waters of the Indian and Pacific Oceans, characterized by their symbiotic relationship with sea anemones. Clownfish are known for their unique reproductive behavior and as popular aquarium species.",393,clownfish
+"A group of large, primitive fish native to subtropical, temperate, and sub-Arctic rivers, lakes, and coastlines, characterized by their elongated bodies, scaleless skin, and bony plates. Sturgeon are known for their long lifespans, slow reproductive rates, and as the source of caviar.",394,sturgeon
+"A group of long, slender fish native to North and Central America, characterized by their elongated snouts filled with sharp teeth. Gar fish are known for their ancient lineage and ability to survive in low-oxygen environments.",395,gar fish
+"A group of venomous marine fish native to the Indo-Pacific region, characterized by their striking coloration, elongated fin rays, and venomous spines. Lionfish are known for their invasive presence in the western Atlantic and their impact on native ecosystems.",396,lionfish
+"A group of fish found in tropical and subtropical ocean waters, characterized by their ability to inflate their bodies as a defense mechanism against predators. Pufferfish are known for their unique appearance and the presence of tetrodotoxin in some species, making them a potentially lethal delicacy.",397,pufferfish
+"An ancient abacus tool, consisting of a frame with rows of beads or other movable counters, used for mathematical operations and counting.",398,abacus
+"A loose, full-length abaya worn by some Muslim women, primarily in the Arabian Peninsula, as an outer covering to ensure modesty.",399,abaya
+"A long, flowing academic gown worn by academics, graduates, and students during formal events, such as graduations and ceremonies, often accompanied by a cap or hood to signify the wearer's level of education.",400,academic gown
+"A musical accordion, consisting of a central bellows and two keyboards, played by compressing and expanding the bellows to produce sound while pressing keys or buttons to control pitch.",401,accordion
+"A stringed musical instrument, featuring a hollow body and a sound hole, which amplifies the vibration of the strings to produce sound. Acoustic guitars are commonly used in various music genres, including folk, blues, and rock.",402,acoustic guitar
+"A large aircraft carrier designed to serve as a seagoing airbase, equipped with a full-length flight deck for the launching and recovery of aircraft.",403,aircraft carrier
+"A large, fixed-wing airliner designed to transport passengers and cargo over long distances, typically operated by commercial airlines.",404,airliner
+"A type of lighter-than-air aircraft, also known as a dirigible, characterized by its elongated shape, powered by engines, and steered by a rudder. Airships typically consist of a rigid frame covered with an envelope filled with gas, such as helium or hydrogen.",405,airship
+"A raised altar, table, or other structure used for religious or spiritual rituals, often found in churches, temples, and other places of worship.",406,altar
+"A specialized ambulance designed for the transportation of sick or injured people to medical facilities, often equipped with life-saving equipment and staffed by paramedics or other medical professionals.",407,ambulance
+"A amphibious vehicle of vehicle capable of traveling on both land and water, often used for military purposes or in specialized civilian applications.",408,amphibious vehicle
+"A analog clock device that displays the time using a series of rotating hands on a numbered dial or face, rather than a digital display.",409,analog clock
+"A apiary where bees are kept for honey production, often consisting of a collection of beehives and related equipment.",410,apiary
+"A protective apron worn over the front of one's clothing, typically made of cloth or other material, and tied around the waist to protect against spills, stains, or damage while working.",411,apron
+"A trash can used for temporarily storing waste, typically made of plastic or metal and equipped with a lid to keep the contents contained and concealed.",412,trash can
+"A type of firearm designed for rapid fire and the use of intermediate cartridges, typically used by military and law enforcement personnel. Assault rifles often feature detachable magazines and selective fire options.",413,assault rifle
+"A backpack with shoulder straps that is carried on one's back, often used for carrying personal belongings or supplies, especially while hiking, traveling, or attending school.",414,backpack
+"A bakery where bread, pastries, cakes, and other baked goods are made or sold, often including a retail space where customers can purchase the products.",415,bakery
+"A narrow, raised balance beam used in gymnastics, on which athletes perform a series of acrobatic and balancing maneuvers during a routine.",416,balance beam
+"A flexible balloon, typically made of rubber or latex, which can be filled with air or other gases and used for various purposes, such as decoration, transportation, or scientific experiments.",417,balloon
+"A ballpoint pen instrument that uses a small, rotating ball at the tip to dispense ink onto a surface, providing a smooth writing experience and eliminating the need for a separate inkwell.",418,ballpoint pen
+"A Band-Aid of adhesive bandage used to cover and protect small cuts, scrapes, or wounds, often made from a flexible, skin-colored material with an adhesive backing and a small, absorbent pad in the center.",419,Band-Aid
+"A stringed musical banjo, characterized by a round, drum-like body with a skin or plastic head and a long, fretted neck, often used in folk, country, and bluegrass music.",420,banjo
+"A baluster / handrail of short, vertical posts that support a handrail, often used on staircases, balconies, and decks to provide safety and stability. Balusters can be made of various materials, such as wood or metal, and may be decorative or functional in design.",421,baluster / handrail
+"A type of weightlifting equipment consisting of a long metal bar with weighted plates attached to each end, used for various exercises to build strength and muscle. Barbells can be lifted using one or both hands and can be used with or without a weight bench.",422,barbell
+"A specially designed chair used by barbers for seating customers while they receive haircuts, shaves, or other grooming services. Barber chairs often have adjustable heights, reclining backrests, and footrests for the comfort of both the client and the barber.",423,barber chair
+"A barbershop establishment where haircuts, shaves, and other grooming services are provided by professional barbers, often catering specifically to men's grooming needs.",424,barbershop
+"A large, usually wooden, barn used for storing farm equipment, hay, and grain, or for housing livestock, such as horses, cows, or pigs.",425,barn
+"An instrument used to measure atmospheric pressure, often employed in weather forecasting and determining altitude. Barometers can be either mercury-based or aneroid (using a sealed, flexible chamber).",426,barometer
+"A large, cylindrical barrel made of wood, metal, or plastic, typically used for storing and transporting liquids, such as wine, beer, or oil.",427,barrel
+"A small, single-wheeled wheelbarrow with handles at the rear, used for carrying loads in gardening, construction, or other manual labor tasks.",428,wheelbarrow
+"A ball used in the sport of baseball, typically made of a cork or rubber core wrapped in yarn and covered in leather or synthetic materials, and measuring about 9 inches (23 cm) in circumference.",429,baseball
+"A ball used in the sport of basketball, typically made of a rubber or synthetic material with a textured surface for grip, and measuring about 29.5 inches (75 cm) in circumference for men's play and 28.5 inches (72 cm) for women's play.",430,basketball
+"A small, portable bassinet bed or cradle, often designed for infants up to a few months old, featuring a hood or canopy and sometimes mounted on a frame with wheels for easy transport.",431,bassinet
+"A woodwind musical bassoon with a double reed, a long, conical wooden body, and a distinctive U-shaped bend in the tubing, producing a deep, rich sound in the bass register.",432,bassoon
+"A tight-fitting swimming cap, usually made of silicone or latex, worn on the head while swimming to keep hair dry, reduce drag, and protect the hair and scalp from chlorine or other pool chemicals.",433,swimming cap
+"A large, absorbent bath towel used for drying the body after bathing, showering, or swimming, typically made of cotton, microfiber, or other absorbent materials.",434,bath towel
+"A large, fixed container, often made of porcelain, acrylic, or cast iron, and designed for holding water in which a person can bathe. Bathtubs can be installed as freestanding units or built into a bathroom enclosure and may feature built-in faucets, showerheads, or whirlpool jets.",435,bathtub
+"A type of automobile, similar to a sedan, but with an extended rear cargo area and a rear door, often used for transporting passengers and luggage. Station wagons typically have foldable rear seats for additional storage space.",436,station wagon
+"A lighthouse, often conical or cylindrical tower with a powerful light at the top, located near coastlines, harbors, or other navigational points to guide ships and warn of hazards.",437,lighthouse
+"A cylindrical beaker with a flat bottom, typically made of glass or plastic, and used in laboratories for mixing, measuring, or heating liquids.",438,beaker
+"A military hat (bearskin or shako), cylindrical or conical hat, often made of fur (bearskin) or stiffened cloth (shako), worn as part of a military uniform, particularly for ceremonial purposes or by certain regiments.",439,military hat (bearskin or shako)
+"A beer bottle, typically made of glass or sometimes aluminum, designed to hold and transport beer, usually sealed with a cap or, less commonly, a cork.",440,beer bottle
+"A specially designed beer glass glass used for consuming beer, with various shapes and sizes tailored to enhance the aroma, flavor, and appearance of specific beer styles.",441,beer glass
+"A bell tower, often attached to a church or other public building, containing one or more bells that are rung to mark the time, signal events, or call people to worship.",442,bell tower
+"A protective baby bib worn around a baby's neck and draped over the chest, designed to catch food spills and drool, typically made of absorbent cloth or easily wiped plastic.",443,baby bib
+"A tandem bicycle designed for two riders, with one seat and set of pedals positioned behind the other, allowing both riders to pedal simultaneously.",444,tandem bicycle
+"A two-piece bikini's swimsuit, typically consisting of a bra-like top and brief-style bottoms, which reveals the midriff and often exposes more skin than a traditional one-piece swimsuit.",445,bikini
+"A ring binder with a built-in mechanism, usually consisting of metal rings or prongs, designed to hold hole-punched paper or plastic sleeves for organization and storage.",446,ring binder
+"A binoculars of optical instruments, each consisting of a small telescope, mounted side-by-side and aligned to point in the same direction, allowing the user to view distant objects with both eyes for enhanced depth perception and clarity.",447,binoculars
+"A small, enclosed birdhouse, often made of wood or metal, designed to provide shelter and nesting sites for birds.",448,birdhouse
+"A boathouse, typically located near a body of water, used for storing boats, equipment, and other watercraft, often with direct access to the water for launching.",449,boathouse
+"A winter sports vehicle designed for racing down an ice-covered track, featuring a streamlined body and two sets of runners, with the front set being steerable. Bobsleighs typically accommodate two or four riders.",450,bobsleigh
+"A bolo tie of necktie consisting of a cord or braided leather, worn around the collar and fastened with a decorative clasp or slide, often associated with Western or Southwestern fashion.",451,bolo tie
+"A poke bonnet of women's hat popular in the 19th century, featuring a brim that projects forward to shield the face from sun and wind, and a ribbon tied under the chin to secure it in place.",452,poke bonnet
+"A bookcase of furniture with shelves designed for storing and displaying books, often made of wood, metal, or a combination of materials.",453,bookcase
+"A retail bookstore specializing in the sale of books, often also offering magazines, newspapers, stationery, and sometimes other items such as games, gifts, or coffee.",454,bookstore
+"A small, bottle cap, and typically flat or slightly concave piece of metal or plastic used to seal the opening of a bottle, designed to be easily removed and replaced.",455,bottle cap
+"A specialized hunting bow of bow, typically made of wood, metal, or composite materials, designed for shooting arrows at game animals for hunting purposes.",456,hunting bow
+"A bow tie of necktie, consisting of a ribbon of fabric tied in a symmetrical knot at the collar, creating two loops resembling butterfly wings, often worn with formal attire.",457,bow tie
+"A flat, engraved brass memorial plaque made of brass, used to commemorate a person, event, or location, typically mounted on a wall or other surface.",458,brass memorial plaque
+"A bra's undergarment designed to support and shape the breasts, typically consisting of two cups, shoulder straps, and a band that fastens around the chest.",459,bra
+"A coastal breakwater, often made of large rocks, concrete, or other materials, built to protect a harbor, anchorage, or shoreline from the force of waves and to reduce erosion.",460,breakwater
+"A breastplate of armor, typically made of metal or leather, designed to protect the chest and upper torso of a wearer during combat or other dangerous situations.",461,breastplate
+"A broom tool consisting of stiff bristles, usually made of natural or synthetic fibers, attached to a long handle, used for sweeping dirt and debris from floors and other surfaces.",462,broom
+"A cylindrical, open-topped bucket with a handle, usually made of metal, plastic, or wood, used for holding and carrying liquids, solids, or other materials.",463,bucket
+"A buckle or plastic fastening device, often used on belts, straps, or shoes, consisting of a frame with a movable prong or other mechanism that secures one end of the strap and allows for adjustment.",464,buckle
+"A protective bulletproof vest, typically made of Kevlar or other strong synthetic fibers, designed to absorb the impact of bullets and reduce or prevent injury to the wearer.",465,bulletproof vest
+"A high-speed train of rail transport that operates at significantly faster speeds than traditional trains, often using specially designed tracks, rolling stock, and advanced technology to achieve high velocities and increased efficiency.",466,high-speed train
+"A retail butcher shop that specializes in the sale of meat, often including poultry, fish, and other related products, where the meat is typically cut and prepared on-site by a butcher.",467,butcher shop
+"A vehicle for hire, usually a car, that transports passengers between locations of their choice, with fares typically calculated based on distance traveled or time spent in the vehicle. Taxicabs can be hailed on the street, arranged by phone or app, or picked up at designated taxi stands.",468,taxicab
+"A large, metal cauldron pot with a handle and often a lid, traditionally used for cooking over an open fire.",469,cauldron
+"A cylindrical or tapered candle of wax, tallow, or other solid fuel with a central wick, which is lit to produce light as the fuel melts and is consumed.",470,candle
+"A large, mounted cannon that fires heavy projectiles, historically used in warfare and for other purposes such as ceremonial salutes.",471,cannon
+"A canoe, narrow watercraft, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel using single-bladed paddles.",472,canoe
+A can opener or electric device designed to open metal cans by cutting or removing the lid.,473,can opener
+"A cardigan of knitted sweater or jacket that opens down the front, usually with buttons or a zipper, and often has a collar.",474,cardigan
+"A reflective car mirror, typically mounted on the outside or inside of a vehicle, allowing the driver to see areas behind or to the sides of the vehicle that are not visible through the windshield or rear window.",475,car mirror
+"A rotating carousel ride, often found at carnivals or amusement parks, featuring seats or platforms, usually in the shape of horses or other animals, that move up and down as the ride turns.",476,carousel
+"A tool kit of tools, usually housed in a case or box, designed for a specific purpose or for general use in various tasks, such as repairs, maintenance, or assembly.",477,tool kit
+"A cardboard box / carton made from thick paper or paperboard, typically used for packaging, shipping, or storage of goods.",478,cardboard box / carton
+"A car wheel, metal or alloy rim on which a tire is mounted, providing support and allowing the vehicle to roll smoothly along a surface.",479,car wheel
+"An electronic automated teller machine machine that allows customers to perform financial transactions, such as deposits, withdrawals, balance inquiries, and transfers, without the assistance of a human teller.",480,automated teller machine
+"A cassette, rectangular plastic case containing a magnetic tape, used for recording and playback of audio or video content.",481,cassette
+"An electronic cassette player designed to play audio or video cassettes, typically using a tape head to read the magnetic signals on the tape as it is pulled across the head by a motorized mechanism.",482,cassette player
+"A large, fortified castle or group of buildings, historically used as a residence for nobility or royalty and often featuring thick walls, towers, and other defensive structures.",483,castle
+"A catamaran of sailboat or powered boat with two parallel hulls of equal size, providing increased stability and often greater speed compared to single-hulled vessels.",484,catamaran
+"An electronic CD player designed to play compact discs (CDs), which store digital audio data that is read by a laser and converted into sound.",485,CD player
+"A large, four-stringed musical cello of the violin family, played by bowing or plucking the strings while the instrument is held upright, resting on the floor with a metal or wooden spike.",486,cello
+"A portable, wireless mobile phone device that allows users to make and receive telephone calls, send and receive text messages, and access various services and applications, often including internet access, email, and multimedia features.",487,mobile phone
+"A chain of connected metal links, typically used for fastening or securing objects, transmitting mechanical power, or as a decorative accessory.",488,chain
+"A chain-link fence of fence made from interwoven strands of metal, forming a pattern of diamond-shaped openings, often used for security or to enclose an area.",489,chain-link fence
+"A chain mail of flexible armor made from interlinked metal rings, often worn by medieval soldiers for protection against cutting and stabbing weapons.",490,chain mail
+"A portable, mechanical chainsaw with a rotating chain of small, sharp teeth set along a guide bar, commonly used for cutting wood, such as trees, logs, and branches.",491,chainsaw
+"A large, sturdy storage chest or piece of furniture, often made of wood or metal, used for storing items such as clothes, linens, or household goods.",492,storage chest
+"A chiffonier, narrow piece of furniture, often with drawers, shelves, or compartments, used for storing items such as clothing, linens, or dishes.",493,chiffonier
+"A decorative bell or wind chime of small bells or hollow, tubular objects that produce sound when they are struck by the wind or another external force.",494,bell or wind chime
+"A china cabinet of furniture, often with glass doors, shelves, and a solid base, used for displaying and storing fine china, glassware, and other decorative items.",495,china cabinet
+"A large, sock-shaped Christmas stocking, traditionally hung by the fireplace or another prominent location during the Christmas season, used for holding small gifts, toys, or other festive items.",496,Christmas stocking
+"A church or structure where religious services, ceremonies, and other activities related to worship and spirituality are held.",497,church
+"A movie theater, often with multiple screens or auditoriums, where films are shown to the public, usually for a fee.",498,movie theater
+"A large, heavy cleaver with a broad, rectangular blade, used primarily for cutting through meat and bones.",499,cleaver
+"A cliff dwelling or structure built into the side of a cliff, often found in the southwestern United States and constructed by ancient Native American cultures such as the Anasazi and the Sinagua.",500,cliff dwelling
+"A loose, sleeveless cloak that is worn over the shoulders and fastened at the neck, often used for warmth or as a decorative accessory.",501,cloak
+"A type of footwear with a thick, rigid sole, often made of wood, and an upper made of leather or another material. Clogs can be open or closed, and are commonly associated with Dutch and Scandinavian cultures.",502,clogs
+"A cocktail shaker used for mixing alcoholic beverages, typically consisting of a metal or glass body and a tight-fitting lid with a built-in strainer.",503,cocktail shaker
+"A cylindrical coffee mug with a handle, typically made of ceramic or glass, used for drinking hot beverages such as coffee or tea.",504,coffee mug
+A coffeemaker appliance used to brew coffee by heating water and passing it through ground coffee beans.,505,coffeemaker
+"A curved or helical spiral or coil, often found in objects such as springs, wires, or binding materials for notebooks and documents.",506,spiral or coil
+A combination lock of lock that is opened by aligning a series of rotating dials or discs to a specific sequence of numbers or symbols.,507,combination lock
+"An computer keyboard device for computers that consists of a set of keys arranged in rows, used for entering text, numbers, and commands.",508,computer keyboard
+"A retail candy store that primarily sells confections, sweets, and other sugary treats.",509,candy store
+"A large container ship ship designed to carry standardized shipping containers, which can be easily loaded, unloaded, and transported between different modes of transportation.",510,container ship
+"A convertible of car with a retractable roof, allowing the vehicle to be driven with the top up (enclosed) or down (open).",511,convertible
+"A corkscrew used to remove corks from wine bottles, typically featuring a spiral metal rod and a handle for leverage.",512,corkscrew
+A cornet musical instrument similar to a trumpet but with a more compact shape and mellower tone.,513,cornet
+"A cowboy boot of boot traditionally worn by cowboys, featuring a high shaft, pointed toe, and a low, angled heel.",514,cowboy boot
+"A wide-brimmed cowboy hat, typically made of felt or straw, with a high, rounded crown, often associated with the American West and cowboy culture.",515,cowboy hat
+"A small cradle or rocking structure for an infant, designed to gently rock back and forth to soothe and comfort the baby.",516,cradle
+"A large, tall construction crane used in construction projects for lifting and moving heavy materials, such as steel beams or concrete blocks.",517,construction crane
+"A protective crash helmet worn by motorcyclists, race car drivers, and others involved in high-speed or high-risk activities to reduce the risk of head injuries.",518,crash helmet
+"A large, often wooden, crate used for transporting or storing goods.",519,crate
+"A small infant bed specifically designed for infants and very young children, often with raised sides to prevent the child from falling out.",520,infant bed
+"A Crock Pot of slow cooker, an electric kitchen appliance that cooks food at a low temperature over an extended period, often used for soups, stews, and other one-pot meals.",521,Crock Pot
+"A solid, typically wooden or plastic croquet ball used in the game of croquet, which involves hitting the ball through a series of hoops with a mallet.",522,croquet ball
+"A crutch aid used to support and transfer weight from the legs to the upper body, typically used by individuals with an injury or disability that affects their ability to walk.",523,crutch
+"A cuirass of armor that covers the torso, usually made of metal or leather, and is worn to protect the chest and back in battle.",524,cuirass
+"A dam built across a river or stream to control the flow of water, often used for generating electricity, providing water for irrigation, or creating reservoirs.",525,dam
+"A desk of furniture with a flat surface and typically drawers or shelves, used for writing, reading, or working on a computer.",526,desk
+"A personal desktop computer designed to be used on a desk or table, often consisting of a separate monitor, keyboard, mouse, and processing unit.",527,desktop computer
+"A rotary dial telephone of telephone with a circular dial containing numbered holes, used to enter the phone number by rotating the dial for each digit.",528,rotary dial telephone
+"A diaper worn by infants or individuals with incontinence issues, designed to absorb and contain urine and feces.",529,diaper
+"A digital clock that displays the time using digits, as opposed to an analog clock, which uses hands and a dial to indicate the time.",530,digital clock
+"A digital watch that displays the time using digital numbers, typically powered by a battery or solar cell.",531,digital watch
+"A large dining table, usually with chairs arranged around it, used for eating meals.",532,dining table
+"A dishcloth used for washing dishes, wiping surfaces, and drying hands in the kitchen.",533,dishcloth
+"A dishwasher appliance that automatically washes and dries dishes, utensils, and cookware by spraying them with water and detergent, then rinsing and drying them.",534,dishwasher
+"A disc brake of brake system used in vehicles, consisting of a metal disc and brake pads that create friction to slow or stop the vehicle when the brakes are applied.",535,disc brake
+"A dock extending alongshore or out from the shore into a body of water, to which boats may be moored.",536,dock
+"A sled or sleigh pulled by a dog sled of dogs, typically used for transportation or racing in snowy or icy conditions.",537,dog sled
+"An architectural dome characterized by its curved, hemispherical shape, often used as a roof for buildings or as a decorative element.",538,dome
+"A doormat placed outside or inside the entrance of a home or building, used to wipe shoes and remove dirt before entering.",539,doormat
+"A drilling rig that creates holes in the ground for extracting natural resources, such as oil, gas, or water, or for installing foundation supports for buildings or other structures.",540,drilling rig
+"A percussion instrument consisting of a hollow shell, usually cylindrical, with a membrane stretched over one or both ends, played by striking with the hands or drumsticks.",541,drum
+A drumstick used for striking drums and other percussion instruments to produce sound.,542,drumstick
+"A dumbbell of weightlifting equipment consisting of a short bar with a weight at each end, used for exercise and strength training.",543,dumbbell
+"A large, heavy Dutch oven pot with a tight-fitting lid, often made of cast iron, used for slow cooking on the stovetop or in the oven.",544,Dutch oven
+"A electric fan with rotating blades that creates airflow by moving air, typically used for cooling or ventilating a space.",545,electric fan
+"A musical electric guitar with a solid or semi-hollow body that uses electromagnetic pickups to convert the vibration of its strings into electrical signals, which are then amplified and played through a speaker.",546,electric guitar
+"A electric locomotive of locomotive powered by electricity, typically drawn from overhead wires or a third rail, used to pull or push trains along railway tracks.",547,electric locomotive
+"A entertainment center of furniture designed to house electronic equipment, such as a television, stereo system, and gaming consoles, often featuring shelves, drawers, or compartments for organizing media and accessories.",548,entertainment center
+"A flat, usually rectangular or square envelope container used to enclose a letter or document, sealed by folding a flap over the opening and securing it with adhesive, a sticker, or another method.",549,envelope
+A espresso machine of coffee maker that forces hot water under pressure through finely ground coffee beans to produce a concentrated coffee beverage known as espresso.,550,espresso machine
+"A cosmetic face powder, often in the form of a fine, loose powder, applied to the face to set makeup, absorb oil, or provide a matte finish.",551,face powder
+"A long, narrow feather boa made from feathers, often worn around the neck or draped over the shoulders as a decorative or fashionable item.",552,feather boa
+"A filing cabinet of office furniture with drawers or compartments designed to store and organize files, documents, and other paperwork.",553,filing cabinet
+"A specialized fireboat equipped with powerful pumps and nozzles for spraying water, used to fight fires on boats, ships, or waterfront structures.",554,fireboat
+"A large fire truck, typically equipped with ladders, hoses, pumps, and other firefighting equipment, used by firefighters to transport personnel and equipment to the scene of a fire or other emergency.",555,fire truck
+A protective fire screen placed in front of a fireplace to prevent sparks and hot embers from escaping and causing damage or injury.,556,fire screen
+"A flagpole, vertical pole used to display flags, usually made of metal, wood, or fiberglass.",557,flagpole
+"A musical flute from the woodwind family, typically made of metal and played by blowing air across a hole in the instrument and pressing keys to create different pitches.",558,flute
+"A folding chair of lightweight, portable chair with a collapsible frame that can be easily folded and stored when not in use.",559,folding chair
+A protective football helmet worn by American football players to help prevent head injuries during games and practices.,560,football helmet
+"An industrial forklift with a power-operated, fork-like lifting mechanism used to move, lift, and stack heavy loads or materials, such as pallets or crates.",561,forklift
+"A decorative fountain that incorporates water flow, often in a pool, pond, or basin, and can feature various designs, such as statues or cascades.",562,fountain
+"A fountain pen instrument that uses a nib and an internal ink reservoir to apply ink to paper, providing a smooth and controlled writing experience.",563,fountain pen
+"A four-poster bed with four tall, vertical posts at each corner, which can support a canopy or curtains for decoration or privacy.",564,four-poster bed
+"A freight car of railroad car used to transport goods, materials, or cargo, such as boxcars, flatcars, or tank cars.",565,freight car
+"A French horn musical instrument with a coiled tube, flared bell, and three or more valves, played by blowing into a mouthpiece and pressing valves to change pitch.",566,French horn
+"A frying pan, flat-bottomed cooking pan with a long handle, typically made of metal, used for frying, searing, or browning food.",567,frying pan
+"A fur coat made from animal fur, often worn for warmth or as a symbol of luxury and status.",568,fur coat
+"A specialized garbage truck designed to collect and transport solid waste, such as household trash or commercial refuse, to a disposal facility.",569,garbage truck
+"A protective gas mask or respirator worn over the face to filter harmful airborne contaminants, such as toxic gases, smoke, or dust, and provide clean air to the wearer.",570,gas mask or respirator
+"A gas pump used to dispense fuel, such as gasoline or diesel, into the tanks of motor vehicles at filling stations.",571,gas pump
+"A stemmed goblet glass with a wide, open top, often used for serving wine or other beverages.",572,goblet
+"A small, lightweight go-kart with a simple frame, powered by a small engine, used for recreational racing or off-road driving.",573,go-kart
+"A small, dimpled golf ball used in the sport of golf, designed to be hit by a club and propelled towards a hole on a golf course.",574,golf ball
+"A small, electric or gas-powered golf cart designed to transport golfers and their equipment around a golf course.",575,golf cart
+"A traditional, flat-bottomed Venetian gondola boat used for transportation on the canals of Venice, Italy, or a type of cable car used to transport people up and down a mountain.",576,gondola
+"A large, flat, circular gong disc that produces a resonant sound when struck, often used in music or as a signal.",577,gong
+"A long, elegant gown typically worn on formal occasions or as a part of ceremonial attire.",578,gown
+"A large, stringed musical grand piano with a wooden frame and an extended horizontal harp, played using a keyboard, and known for its rich, dynamic sound.",579,grand piano
+"A greenhouse with walls and a roof made primarily of transparent material, such as glass, used for growing and cultivating plants that require controlled climatic conditions.",580,greenhouse
+"A protective radiator grille for the front of a vehicle, designed to allow air to flow through the radiator for cooling purposes while also providing a distinctive appearance.",581,radiator grille
+"A retail grocery store that sells a wide variety of food products and household items, including fresh produce, meats, dairy products, and packaged goods.",582,grocery store
+"A historical guillotine device consisting of a large, upright frame with a weighted, angled blade used to quickly and efficiently behead prisoners.",583,guillotine
+A small hair clip used to hold hair in place or add decoration to a hairstyle.,584,hair clip
+A styling hair spray used to hold hair in place and provide a desired level of hold and texture.,585,hair spray
+"A half-track of military vehicle with both wheels and continuous tracks, providing greater off-road mobility than a fully wheeled vehicle.",586,half-track
+"A hammer tool consisting of a heavy, typically metal head attached to a handle, used for driving nails, breaking objects, or striking surfaces.",587,hammer
+"A hamper used for storing dirty laundry, typically made of wicker, fabric, or plastic.",588,hamper
+An electrical hair dryer used to blow hot or cool air over damp hair to dry and style it.,589,hair dryer
+"A small, portable electronic hand-held computer, such as a smartphone or tablet, used for computing, communication, and media consumption.",590,hand-held computer
+"A small, square handkerchief of fabric, often made of cotton or silk, used for personal hygiene purposes or as a fashion accessory.",591,handkerchief
+A hard disk drive storage device used in computers that uses magnetic storage to store and retrieve digital information.,592,hard disk drive
+"A small, rectangular, handheld musical harmonica played by blowing air through its reeds to produce various pitches.",593,harmonica
+"A large, stringed musical harp with a triangular frame, played by plucking or strumming the strings with fingers.",594,harp
+"An agricultural combine harvester that combines the processes of reaping, threshing, and winnowing grain crops, such as wheat or corn.",595,combine harvester
+"A small hatchet with a short handle, used for cutting wood or as a weapon.",596,hatchet
+"A holster, often made of leather, for carrying a handgun or other small weapon, typically worn on a belt or attached to a garment.",597,holster
+An home theater system consisting of audio and video equipment designed to recreate the experience of a movie theater in a home setting.,598,home theater
+A honeycomb of hexagonal wax cells built by bees to store honey and house their larvae.,599,honeycomb
+"A curved or angled hook of metal, plastic, or other material used for hanging, holding, or pulling objects.",600,hook
+"A hoop skirt's skirt, popular in the 19th century, that is extended and supported by a series of concentric hoops, giving it a distinctive bell shape.",601,hoop skirt
+"A gymnastic horizontal bar of gymnastics equipment consisting of a single horizontal metal bar, used by athletes to perform various acrobatic maneuvers.",602,gymnastic horizontal bar
+"A wheeled horse-drawn vehicle, such as a carriage or wagon, designed to be pulled by one or more horses.",603,horse-drawn vehicle
+"A timekeeping hourglass consisting of two glass chambers connected by a narrow passage, with sand flowing through the passage at a constant rate to measure a specific time interval.",604,hourglass
+"A portable digital iPod player, developed by Apple Inc., designed for playing and storing music, videos, and other media files.",605,iPod
+A clothes iron appliance used for pressing and smoothing clothes by applying heat and pressure.,606,clothes iron
+"A carved pumpkin that has been hollowed out and had a design or face cut into its surface, often used as a decorative item during Halloween.",607,carved pumpkin
+"A jeans of pants made from denim or other durable fabric, typically featuring a button or zipper fly, belt loops, and pockets.",608,jeans
+"A jeep of American vehicles known for their rugged, off-road capabilities and distinctive design features, such as a seven-slot grille.",609,jeep
+"A casual, short-sleeved T-shirt made of soft, stretchy fabric, typically featuring a round or V-shaped neckline.",610,T-shirt
+A recreational jigsaw puzzle in which a picture is divided into irregularly shaped pieces that must be fitted together to form the complete image.,611,jigsaw puzzle
+"A rickshaw, often human-powered, vehicle used for transporting passengers, featuring a covered seating area and two or three wheels.",612,rickshaw
+"A joystick device, often used in video games or flight simulators, that consists of a stick that pivots on a base and is used to manipulate objects on a screen or control a machine.",613,joystick
+"A traditional Japanese kimono, featuring a T-shaped, wide-sleeved, ankle-length robe, usually worn with an obi sash tied around the waist.",614,kimono
+"A protective knee pad of equipment worn on the knees, designed to cushion and shield them from injury during sports or other physical activities.",615,knee pad
+"A knot of fastening or securing linear material, such as rope or string, by looping, twisting, and intertwining it.",616,knot
+"A lab coat, protective garment worn by scientists, doctors, or other professionals working in a laboratory or similar environment.",617,lab coat
+"A long-handled ladle with a deep, bowl-shaped end, used for serving liquids, such as soup or sauce.",618,ladle
+"A decorative lampshade, often made of fabric, paper, or glass, used to diffuse and direct the light from a lamp.",619,lampshade
+"A portable personal laptop computer, featuring a clamshell design with a display screen and keyboard, designed for easy transportation and use on the go.",620,laptop computer
+"A lawn mower, either manual or powered, used for cutting and maintaining the height of grass in lawns and other grassy areas.",621,lawn mower
+"A protective lens cap for a camera lens, designed to keep the lens clean and free from damage when not in use.",622,lens cap
+"A small, often decorative, letter opener used for neatly and efficiently slicing open the sealed edges of envelopes.",623,letter opener
+"A library or room containing a collection of books, periodicals, and other materials for reading, study, or reference.",624,library
+"A small, sturdy lifeboat carried by larger vessels, designed to be used in emergency situations, such as evacuating passengers and crew during a maritime disaster.",625,lifeboat
+"A portable lighter that produces a flame, typically used for igniting cigarettes, candles, or other flammable materials.",626,lighter
+"A limousine vehicle, often driven by a chauffeur, featuring a long wheelbase and a separate compartment for passengers, typically used for special events or occasions.",627,limousine
+"A large, passenger-carrying ocean liner designed for long-distance travel across oceans, typically featuring various amenities and accommodations.",628,ocean liner
+"A cosmetic lipstick applied to the lips to add color and texture, often made from a mixture of pigments, oils, and waxes.",629,lipstick
+"A slip-on shoe of footwear that is easily put on and taken off, without the need for fasteners such as laces or buckles.",630,slip-on shoe
+"A lotion or semi-solid cosmetic product applied to the skin to moisturize, protect, or provide other benefits.",631,lotion
+"An electroacoustic music speaker designed to reproduce sound from an audio source, such as a stereo system or portable music player.",632,music speaker
+"A small, handheld loupe magnifying glass device used to examine fine details, often used by jewelers, watchmakers, and other professionals.",633,loupe magnifying glass
+An industrial sawmill where logs are cut into lumber using large saws.,634,sawmill
+A navigational magnetic compass that uses a magnetized needle to indicate the direction of the Earth's magnetic north or south pole.,635,magnetic compass
+"A messenger bag of bag worn over one shoulder, typically featuring a large, rectangular shape and a flap closure, often used for carrying documents, laptops, or other items.",636,messenger bag
+"A mailbox, either freestanding or mounted on a building, used for receiving, sending, or storing mail.",637,mailbox
+"A tights, stretchy garment worn on the legs and feet, typically made from nylon or other synthetic materials.",638,tights
+"A single-piece one-piece bathing suit, designed to cover the torso and crotch, usually with straps over the shoulders.",639,one-piece bathing suit
+"A removable, manhole cover or rectangular metal plate used to cover an opening in a street or sidewalk, providing access to underground utilities.",640,manhole cover
+"A maraca instrument, originating from Latin America, consisting of a hollow gourd or container filled with seeds or beads, shaken to produce sound.",641,maraca
+"A marimba instrument with a set of wooden bars, similar to a xylophone, struck with mallets to produce musical tones.",642,marimba
+"A covering mask on the face, often for disguise, protection, or performance purposes.",643,mask
+"A short, slender matchstick of wood or cardboard coated with a combustible material, used for lighting fires by striking the tip against a rough surface.",644,matchstick
+"A maypole, decorated pole, often erected during spring festivals, around which participants dance and weave ribbons.",645,maypole
+A complex maze of paths or passages designed to challenge one's sense of direction and problem-solving skills.,646,maze
+"A measuring cup utensil used for measuring the volume of liquid or dry ingredients, typically marked with graduated units of measurement.",647,measuring cup
+"A small medicine cabinet, often mounted on a bathroom wall, used for storing medications, toiletries, and other personal care items.",648,medicine cabinet
+"A large megalith structure or monument, typically associated with prehistoric cultures, such as Stonehenge.",649,megalith
+"A microphone that converts sound waves into electrical signals, used for recording or amplifying audio in various settings, such as music performances or public speaking events.",650,microphone
+An microwave oven that uses microwave radiation to heat and cook food quickly and efficiently.,651,microwave oven
+"A standardized military uniform worn by members of a country's armed forces, typically designed for durability, functionality, and easy identification.",652,military uniform
+"A large milk can container, traditionally used for transporting and storing milk from farms to dairies or other distribution points.",653,milk can
+"A small minibus or van, typically used for public transportation or group travel, with a seating capacity for around 8 to 30 passengers.",654,minibus
+A short miniskirt with a hemline that typically falls well above the knees.,655,miniskirt
+"A minivan of vehicle, smaller than a full-size van, designed for passenger transport, often featuring sliding side doors and flexible seating configurations.",656,minivan
+"A self-propelled, guided missile system, designed to deliver an explosive or other payload to a target at a distance.",657,missile
+"A mitten of glove with a single, large pocket for the four fingers and a separate compartment for the thumb, designed to keep hands warm in cold weather.",658,mitten
+"A large, open-topped mixing bowl used for combining and preparing ingredients in cooking and baking.",659,mixing bowl
+"A prefabricated, transportable dwelling mobile home, typically designed for long-term residential use and placed on a permanent foundation.",660,mobile home
+"An early, mass-produced ford model t manufactured by the Ford Motor Company from 1908 to 1927, known for its affordability and widespread adoption.",661,ford model t
+"A modem that modulates and demodulates analog signals, enabling digital data to be transmitted over communication lines, such as telephone or cable systems.",662,modem
+"A religious monastery or building where monks or nuns live and practice their faith, often including living quarters, a church, and other facilities.",663,monastery
+"A monitor device, such as a computer screen or television, used for viewing images or video generated by a connected source.",664,monitor
+"A lightweight motorized moped, often equipped with pedals for human-powered propulsion, typically featuring a small engine with a displacement of 50cc or less.",665,moped
+"A mortar and pestle tool consisting of a bowl (mortar) and a heavy, blunt object (pestle), used for grinding, crushing, or mixing ingredients.",666,mortar and pestle
+"A graduation cap, flat hat with a tassel, traditionally worn by students during graduation ceremonies to symbolize the completion of their studies.",667,graduation cap
+"A mosque of worship for Muslims, characterized by its architecture, which often includes a dome and one or more minarets.",668,mosque
+"A fine, mesh mosquito net designed to hang over a sleeping area, providing a protective barrier against mosquitoes and other insects.",669,mosquito net
+"A vespa of Italian scooters, known for their stylish design and smooth ride, often used as a popular mode of transportation in urban areas.",670,vespa
+"A mountain bike of bicycle designed for off-road cycling, featuring durable construction, knobby tires, and suspension systems to handle rough terrain.",671,mountain bike
+"A portable tent made of fabric or other materials, supported by poles and ropes, used for camping, temporary events, or emergency situations.",672,tent
+"A computer mouse input device used to control a computer's cursor, typically featuring buttons and a scroll wheel for selecting and navigating on-screen elements.",673,computer mouse
+"A mousetrap used to catch or kill mice, often consisting of a spring-loaded mechanism triggered when the mouse steps on or touches a baited trigger.",674,mousetrap
+"A large moving van or trailer designed for transporting furniture, appliances, and other household items during a residential move.",675,moving van
+"A muzzle placed over an animal's mouth, often used on dogs, to prevent biting or eating inappropriate items.",676,muzzle
+"A metal nail, pointed fastener made of metal, used for joining materials together by being hammered into a surface.",677,metal nail
+"A medical neck brace worn around the neck to support and immobilize the cervical spine, often used to treat injuries or provide post-surgical stabilization.",678,neck brace
+"A necklace of jewelry worn around the neck, typically made of a chain or string of beads, gems, or other decorative elements.",679,necklace
+A baby pacifier or silicone nipple designed for infants to suck on as a means of soothing or comforting themselves.,680,baby pacifier
+"A portable personal notebook computer, also known as a laptop, featuring a hinged display and integrated keyboard, designed for mobile use.",681,notebook computer
+"A tall, four-sided, narrow obelisk, often tapering towards a pyramid-shaped point at the top, used as a decorative or commemorative structure.",682,obelisk
+"A oboe instrument with a double reed, producing a distinctive, high-pitched sound, commonly used in orchestras and chamber music.",683,oboe
+"A small, wind ocarina, typically made of ceramic or clay, with a rounded body and finger holes, producing a soft, flute-like sound when blown.",684,ocarina
+"An odometer used to measure the distance traveled by a vehicle, typically displayed on a dashboard or instrument panel.",685,odometer
+"A oil filter used in internal combustion engines to remove impurities and contaminants from engine oil, ensuring optimal performance and longevity.",686,oil filter
+"A large musical pipe organ that produces sound by directing pressurized air through a series of pipes, often used in churches and concert halls.",687,pipe organ
+"An electronic oscilloscope instrument that displays voltage waveforms as a function of time, used for troubleshooting and analyzing electrical signals.",688,oscilloscope
+"An outer overskirt or additional layer worn over a skirt or dress, often for added fullness, decoration, or modesty.",689,overskirt
+"A traditional bullock cart pulled by one or more oxen (bullocks), used for transporting goods and people, particularly in rural areas of some countries.",690,bullock cart
+"A oxygen mask that covers the nose and mouth, designed to deliver oxygen from a storage container to the wearer, often used in medical or high-altitude situations.",691,oxygen mask
+"A product packet / packaging or wrapping material used to protect, store, and present goods, often made of paper, plastic, or other materials.",692,product packet / packaging
+"A flat, elongated paddle with a handle, used to propel and steer small watercraft, such as canoes or kayaks, by being dipped in the water and pulled backward.",693,paddle
+"A large paddle wheel with attached paddles, used to propel a boat or generate mechanical power from water flow, typically used on steamboats or paddle steamers.",694,paddle wheel
+"A portable padlock device, typically featuring a U-shaped shackle, used to secure doors, gates, lockers, or other objects.",695,padlock
+"A paintbrush with bristles, typically made of synthetic or natural fibers, used to apply paint, ink, or other substances to a surface.",696,paintbrush
+"A pajamas of loose-fitting garments, typically consisting of a shirt and pants or shorts, worn for sleeping or lounging.",697,pajamas
+"A large, impressive palace serving as the official residence of a ruler, head of state, or other high-ranking person, often featuring elaborate architecture and decoration.",698,palace
+"A pan flute instrument consisting of a row of tubes of varying lengths, played by blowing air across the top openings to produce sound.",699,pan flute
+"A disposable absorbent paper towel made of paper, used for cleaning or drying surfaces, particularly in kitchens and bathrooms.",700,paper towel
+"A large fabric parachute designed to slow the descent of a person or object through the air, used for recreational skydiving, emergency egress from aircraft, or delivering cargo.",701,parachute
+"A parallel bars of two horizontal bars, typically used in gymnastics for performing balancing and swinging exercises.",702,parallel bars
+"A long, usually wooden or metal park bench placed in a public park or other outdoor area for people to sit and relax.",703,park bench
+"A parking meter used to collect payment for parking in designated spaces, often requiring the user to insert coins or use a credit card to purchase a specific amount of time.",704,parking meter
+"A railroad car designed to run on railway tracks, used for transporting cargo or passengers, often connected to form a train.",705,railroad car
+"An outdoor patio, typically paved or made of stone, used for dining, entertaining, or relaxing, often adjacent to a house or other building.",706,patio
+A public payphone that requires the user to insert coins or use a prepaid card to make a call.,707,payphone
+"A pedestal or support, typically made of stone or metal, used to display a statue, vase, or other decorative object.",708,pedestal
+"A pencil case, often made of fabric or plastic, used to store and organize pencils, pens, and other writing instruments.",709,pencil case
+"A pencil sharpener used to sharpen the point of a pencil by shaving away the outer wood, typically featuring a rotating blade or abrasive surface.",710,pencil sharpener
+"A fragrant perfume, typically made from essential oils and alcohol, used to impart a pleasant scent to the body.",711,perfume
+"A Petri dish, circular, transparent dish with a lid, commonly used in laboratories for culturing cells, bacteria, or other microorganisms.",712,Petri dish
+"A photocopier that makes paper copies of documents, images, or other items, typically using a process called xerography.",713,photocopier
+"A small, flat plectrum, often made of plastic or metal, used to pluck or strum the strings of a guitar or other stringed instrument. Also known as a pick.",714,plectrum
+"A spiked Pickelhaube worn by German soldiers and police during the 19th and early 20th centuries, featuring a distinctive point or spike on top.",715,Pickelhaube
+"A picket fence of fence made from upright wooden or vinyl slats, often with a pointed top, used to enclose yards or gardens.",716,picket fence
+"A light-duty pickup truck with an enclosed cab and open cargo area, typically used for transporting goods, materials, or equipment.",717,pickup truck
+"A pier built over water, typically supported by pilings, used as a walkway, docking area for boats, or a platform for recreational activities.",718,pier
+"A small piggy bank, often shaped like a pig, used for saving coins and small amounts of money.",719,piggy bank
+"A small pill bottle, typically made of plastic or glass, used to store and dispense medication in pill or capsule form.",720,pill bottle
+"A soft pillow, typically filled with feathers, foam, or synthetic materials, used to support the head while sleeping or resting.",721,pillow
+"A ping-pong ball, hollow plastic ball used in the game of table tennis (also known as ping-pong).",722,ping-pong ball
+"A pinwheel consisting of a small wheel with colorful vanes, mounted on a stick, which spins when blown by the wind or by a person's breath.",723,pinwheel
+"A pirate ship of sailing vessel used by pirates, often armed with cannons and featuring distinctive designs, such as the Jolly Roger flag.",724,pirate ship
+"A drink pitcher with a handle and spout, typically made of glass, ceramic, or plastic, used for serving and pouring beverages.",725,drink pitcher
+"A small block plane tool used for smoothing and shaping wood, consisting of a blade mounted in a compact, handheld body.",726,block plane
+"A planetarium, often found in museums or educational institutions, featuring a domed theater for presenting shows about astronomy and the night sky.",727,planetarium
+"A plastic bag, flexible, disposable container made from thin plastic film, used for carrying or storing goods.",728,plastic bag
+"A plate rack device, typically made of wood or metal, designed to hold and display plates, often mounted on a wall or placed on a countertop.",729,plate rack
+"An agricultural farm plow used to break up and turn over soil, often pulled by a tractor or animal, preparing the ground for planting crops.",730,farm plow
+"A plunger with a rubber suction cup on a handle, used to clear clogs in drains and toilets by creating a vacuum or pressure.",731,plunger
+"A Polaroid camera of instant camera that produces self-developing photographs, invented by Polaroid Corporation.",732,Polaroid camera
+"A long, pole, cylindrical object, typically made of wood, metal, or plastic, used for support, as a flagstaff, or in various sports and activities.",733,pole
+"A police van used by law enforcement agencies for transporting officers, suspects, or prisoners.",734,police van
+"A poncho made of a single piece of fabric with an opening for the head, often worn as a raincoat or outer layer for warmth.",735,poncho
+"A rectangular pool table with a flat, cloth-covered surface, raised edges, and six pockets, used for playing cue sports such as billiards, pool, or snooker.",736,pool table
+"A soda bottle, typically made of glass or plastic, used for holding carbonated soft drinks.",737,soda bottle
+"A plant pot, typically made of clay, plastic, or ceramic, used for holding and growing plants.",738,plant pot
+"A potter's wheel platform used by potters for shaping and forming clay into ceramic objects, such as bowls, vases, and plates.",739,potter's wheel
+"An electrically-powered power drill tool used for drilling holes, driving screws, or other tasks, featuring a rotating chuck for holding drill bits or other attachments.",740,power drill
+"A small prayer rug or mat used by Muslims for kneeling and prostrating during prayer, often featuring intricate designs and religious symbols.",741,prayer rug
+"A printer that produces text or images on paper or other materials, typically using inkjet or laser technology.",742,printer
+"A prison facility where individuals convicted of crimes are confined, typically for rehabilitation, punishment, or deterrence.",743,prison
+"A self-propelled, guided missile system that can carry an explosive, chemical, or other payload, used in military and defense applications.",744,missile
+"A projector that projects images or video onto a screen or surface, often used in presentations, home theaters, or other visual displays.",745,projector
+"A small, flat, rubber hockey puck used as the playing object in the sport of ice hockey, designed to slide smoothly across the ice surface.",746,hockey puck
+"A heavy, cylindrical punching bag, typically filled with sand or other material, used for practicing punches and other striking techniques in boxing and martial arts training.",747,punching bag
+"A small purse, typically made of leather or fabric, used by women for carrying money, cards, and personal items.",748,purse
+"A quill instrument made from a feather, typically from a large bird, with the tip sharpened and split to hold ink for writing or drawing.",749,quill
+"A quilt of bedding made from layers of fabric sewn together, often with a decorative pattern, used for warmth and comfort.",750,quilt
+"A race car vehicle designed for competitive motorsports, often featuring specialized engines, lightweight materials, and aerodynamic designs.",751,race car
+"A racket implement with a handle and an open, oval-shaped frame strung with a tight mesh, used for striking balls in sports such as tennis, badminton, and squash.",752,racket
+"A radiator exchanger used in buildings or vehicles to transfer thermal energy from one medium to another, typically for heating or cooling purposes.",753,radiator
+"An electronic radio used to receive and transmit audio signals through the airwaves, often used for entertainment, communication, or broadcasting.",754,radio
+"A large, dish-shaped radio telescope used to detect and study radio waves emitted by celestial objects, often used in radio astronomy for observing the universe.",755,radio telescope
+"A large rain barrel used to collect and store rainwater, often from rooftops or gutters, for later use in irrigation or other purposes.",756,rain barrel
+"A motorized or towable recreational vehicle that combines transportation and living quarters, often used for camping, travel, or other leisure activities.",757,recreational vehicle
+"A fishing casting reel of fishing reel designed for casting bait or lures over a long distance, featuring a spool that rotates as the line is released.",758,fishing casting reel
+"A reflex camera of camera, often called a single-lens reflex (SLR) camera, that uses a mirror and prism system to allow the photographer to see through the lens and accurately frame the shot.",759,reflex camera
+"A refrigerator appliance used for cooling and preserving food by maintaining a low temperature, typically between 35-40°F (2-4°C).",760,refrigerator
+"A handheld remote control used to operate electronic equipment, such as televisions, audio systems, or other appliances, from a distance via infrared or radio signals.",761,remote control
+"An restaurant where food and drink are prepared and served to customers, often featuring a dining area, kitchen, and sometimes a bar or lounge.",762,restaurant
+"A revolver of handgun that features a rotating cylinder with multiple chambers, each holding a single cartridge, allowing for multiple shots to be fired before reloading.",763,revolver
+"A long-barreled firearm designed for accurate shooting at long distances, typically featuring a rifled barrel to impart spin on the projectile for increased stability.",764,rifle
+"A rocking chair of chair with curved legs or rockers that allows it to rock back and forth, often used for relaxation or soothing motion.",765,rocking chair
+"A cooking rotisserie or accessory that rotates food, often meat, on a spit or skewer over a heat source, allowing for even cooking and self-basting.",766,rotisserie
+"A small eraser, typically made of rubber or a similar material, used to remove pencil marks or other writing from paper or other surfaces.",767,eraser
+"An oval-shaped rugby ball used in the sport of rugby, made of leather or synthetic materials and featuring a distinctive shape for easier handling and kicking.",768,rugby ball
+"A straight-edged ruler measuring stick, usually made of wood, plastic, or metal, marked with units of length (such as inches or centimeters), used to measure distances or draw straight lines.",769,ruler measuring stick
+"A sneaker of casual footwear with a flexible rubber sole and an upper made of leather, synthetic materials, or cloth, often designed for sports or athletic activities.",770,sneaker
+"A safe, lockable container, often made of steel or other strong materials, used to store valuables, documents, or other important items to protect them from theft, fire, or damage.",771,safe
+"A small, metal fastening safety pin with a spring mechanism and a protective clasp, used to hold fabric or other materials together.",772,safety pin
+"A small salt shaker with perforated top, used for holding and dispensing salt at the table.",773,salt shaker
+"A sandal of open-toed footwear consisting of a sole held to the foot by straps or bands, often worn in warm weather or as casual wear.",774,sandal
+"A large, rectangular sarong of fabric, often featuring colorful patterns or designs, worn wrapped around the body as a skirt or dress in various cultures.",775,sarong
+"A musical saxophone, typically made of brass, with a distinctive curved shape and a single-reed mouthpiece, used in various styles of music, including jazz, classical, and popular.",776,saxophone
+"A protective scabbard or case, often made of leather or metal, designed to hold a sword, knife, or other bladed weapon when not in use.",777,scabbard
+"A weighing scale used to measure the weight or mass of an object, often featuring a platform, balance, or other mechanism for determining the measurement.",778,weighing scale
+"A large, yellow school bus designed for safely transporting students to and from school, often featuring flashing lights and a stop sign to alert other drivers.",779,school bus
+"A schooner of sailing ship with two or more masts and a fore-and-aft rig, often used for cargo or passenger transport during the 18th and 19th centuries.",780,schooner
+"A large scoreboard, often found in sports arenas or stadiums, used to show the scores, time remaining, and other information related to a game or event.",781,scoreboard
+"A CRT monitor of display device that uses cathode ray tube (CRT) technology to generate images, commonly used in older televisions and computer monitors.",782,CRT monitor
+"A screw with a helical thread that engages with a corresponding thread in a nut or other material, used to hold objects together or adjust their position.",783,screw
+"A screwdriver tool with a handle and a metal shaft, often flat or Phillips head, used for inserting, tightening, or loosening screws.",784,screwdriver
+"A seat belt device in vehicles, consisting of a strap and buckle, designed to secure passengers in their seats and protect them in case of an accident.",785,seat belt
+"A mechanical or electronic sewing machine used for stitching fabric, leather, or other materials together, often featuring a needle, thread, and various settings for different stitch types.",786,sewing machine
+"A protective shield, often made of metal or other durable materials, used in combat or sports to block or deflect blows or projectiles.",787,shield
+"A retail shoe store specializing in the sale of footwear, often carrying a variety of styles, sizes, and brands for men, women, and children.",788,shoe store
+"A traditional Japanese shoji screen / room divider or room divider made of wooden frames covered with translucent paper, often used to separate spaces or provide privacy.",789,shoji screen / room divider
+"A small, handheld shopping basket, often made of wire, plastic, or wicker, used for carrying items while shopping in a store.",790,shopping basket
+"A wheeled shopping cart, typically made of metal or plastic, used for holding and transporting items while shopping in a store.",791,shopping cart
+"A shovel tool consisting of a broad, flat blade attached to a handle, used for digging, lifting, or moving materials such as dirt, snow, or gravel.",792,shovel
+"A shower cap covering, typically made of plastic or vinyl, worn over the hair to protect it from getting wet while showering or bathing.",793,shower cap
+"A shower curtain, often made of waterproof material, used to contain water within a shower or bathtub area and prevent it from splashing onto the floor or surrounding surfaces.",794,shower curtain
+"A long, narrow, flat-bottomed device, typically made of wood, plastic, or composite materials, worn on the feet to glide over snow in winter sports such as skiing or snowboarding.",795,ski
+"A close-fitting balaclava ski mask that covers the head and neck, often made of warm, insulating material, worn to protect the face and head from cold weather, wind, or other elements.",796,balaclava ski mask
+"A sleeping bag, insulated, zippered bag designed for sleeping outdoors, often used in camping or other outdoor activities.",797,sleeping bag
+"A mechanical slide rule computer used for multiplication, division, and other calculations, featuring a sliding central strip and a fixed outer scale.",798,slide rule
+"A sliding door of door that opens and closes by sliding horizontally along a track or guide, often used in homes, offices, or other buildings to save space or create a smooth, modern appearance.",799,sliding door
+"A slot machine device that features spinning reels with various symbols, activated by inserting coins or tokens and pulling a lever or pushing a button, with the goal of achieving a winning combination of symbols.",800,slot machine
+"A snorkel used for breathing while swimming or diving just below the surface of the water, allowing the user to keep their face submerged without having to lift their head for air.",801,snorkel
+"A motorized snowmobile designed for traveling on snow or ice, often featuring a tracked drive system and skis for steering.",802,snowmobile
+"A large snowplow or attachment designed for clearing snow from roads, driveways, or other surfaces, often featuring a large, angled blade for pushing the snow aside.",803,snowplow
+A soap dispenser with a pump or other mechanism for dispensing liquid or foam soap for handwashing or other cleaning purposes.,804,soap dispenser
+"A spherical soccer ball made of leather or synthetic materials, used in the game of soccer (also known as football), featuring a distinctive pattern of black and white pentagonal and hexagonal panels.",805,soccer ball
+"A close-fitting sock made of stretchy material, worn on the foot and lower leg for warmth, comfort, or fashion.",806,sock
+"A solar thermal collector used to absorb sunlight and convert it into thermal energy, often used for heating water or air in residential or commercial applications.",807,solar thermal collector
+"A wide-brimmed sombrero, typically made of straw or felt, often associated with Mexican culture and worn for protection from the sun.",808,sombrero
+"A deep, round soup bowl designed specifically for holding and serving soup or other liquid-based foods.",809,soup bowl
+"A long, horizontal keyboard space bar on a computer keyboard, used for creating spaces between words or characters while typing.",810,keyboard space bar
+"A portable, electric space heater device used for warming small, enclosed areas or individual rooms.",811,space heater
+"A reusable space shuttle designed for transportation between Earth and space, used for missions such as satellite deployment, scientific research, and maintenance of the International Space Station.",812,space shuttle
+"A flat, flexible, and often broad-bladed spatula utensil, used for lifting, turning, or spreading food items, such as flipping pancakes or spreading frosting on a cake.",813,spatula
+"A motorboat powered by an internal combustion engine or electric motor, often used for recreational activities or transportation on water.",814,motorboat
+"A silken spider web created by a spider, often featuring a distinctive pattern, used for trapping and capturing prey.",815,spider web
+"A spindle rod or pin used for spinning fibers, such as wool or cotton, into yarn or thread.",816,spindle
+"A small, high-performance sports car designed for speed and agility, often featuring a sleek, aerodynamic design and powerful engine.",817,sports car
+"A bright, focused spotlight of light used to illuminate a specific area or object, often used in theater, photography, or other visual applications.",818,spotlight
+"A raised stage or floor, often found in theaters or other performance venues, used for presenting plays, concerts, or other events.",819,stage
+"A steam locomotive of railway locomotive powered by steam, often characterized by a large, cylindrical boiler and distinctive smokestack, used for transporting passengers or cargo in the 19th and early 20th centuries.",820,steam locomotive
+"A through arch bridge that features a curved arch structure, with the roadway passing through the arch rather than resting on top of it, often used for spanning rivers or other natural obstacles.",821,through arch bridge
+"A musical steel drum originating from the Caribbean, made from a metal drum with the top surface hammered into a series of raised areas, each producing a different pitch when struck.",822,steel drum
+"A medical stethoscope used for listening to sounds produced within the body, such as the heartbeat or breathing, featuring a chest piece, tubing, and earpieces.",823,stethoscope
+"A long, narrow scarf of fabric, often made of wool, silk, or other materials, worn around the neck or shoulders for warmth or fashion.",824,scarf
+"A stone wall of wall constructed using stones or rocks, often used for fencing, retaining, or decorative purposes.",825,stone wall
+"A stopwatch timekeeping device with buttons for starting, stopping, and resetting the timer, often used for measuring elapsed time in sports or other timed events.",826,stopwatch
+"A stove appliance used for cooking, often featuring burners or heating elements for use with pots and pans, and sometimes including an oven for baking or roasting.",827,stove
+"A strainer utensil with a perforated or mesh surface, used for separating solids from liquids, such as draining pasta or rinsing fruit.",828,strainer
+"A tram of public transportation vehicle, often powered by electricity and running on tracks, used for transporting passengers within urban areas.",829,tram
+"A medical stretcher, often featuring a flat surface and handles, used for carrying injured or incapacitated people during emergencies or rescue operations.",830,stretcher
+"A large, upholstered couch of furniture designed for seating multiple people, often found in living rooms or other communal spaces.",831,couch
+"A dome-shaped stupa, often found in Buddhist architecture, used as a place for meditation or to house sacred relics.",832,stupa
+"A specialized submarine designed to travel underwater, often used for military, scientific, or exploration purposes.",833,submarine
+"A suit of matching garments, typically including a jacket and trousers or a skirt, often worn for formal occasions or professional settings.",834,suit
+"An ancient sundial device that measures the passage of time based on the position of the sun, using a gnomon or pointer to cast a shadow onto a calibrated surface.",835,sundial
+"Protective sunglasses designed to block out harmful ultraviolet (UV) rays and reduce glare from the sun, often featuring tinted lenses and frames in various styles.",836,sunglasses
+"A type of eyewear with tinted or polarized lenses that protect the eyes from sunlight and ultraviolet (UV) radiation, often worn for comfort and style. Sunglasses can also have prescription lenses for individuals who need vision correction.",837,sunglasses
+"A topical sunscreen, cream, or spray used to protect the skin from the harmful effects of the sun's ultraviolet (UV) rays, often available in different sun protection factor (SPF) ratings.",838,sunscreen
+"A suspension bridge of bridge that features a roadway suspended from large cables, often used for spanning long distances or crossing large bodies of water.",839,suspension bridge
+"A mop tool consisting of a long handle with a bundle of absorbent material, such as yarn or microfiber, attached to one end, used for cleaning floors or other surfaces.",840,mop
+"A loose, long-sleeved sweatshirt made of soft, warm fabric, typically featuring a crew neck or hood, and often worn for casual comfort or athletic activities.",841,sweatshirt
+"A swim trunks / shorts of swimwear designed for men or boys, typically featuring an elastic waistband and made of quick-drying fabric.",842,swim trunks / shorts
+"A suspended seat or platform, often found in playgrounds or other recreational areas, designed for swinging back and forth for enjoyment or relaxation.",843,swing
+"A electrical switch used to control the flow of electricity in a circuit, allowing users to turn electrical appliances or lights on and off.",844,electrical switch
+"A medical syringe used for injecting or withdrawing fluids, featuring a narrow tube with a plunger and a needle for insertion into the body.",845,syringe
+"A portable light table lamp, often used for task lighting or decoration, featuring a base, a stem, and a shade to diffuse the light from the bulb.",846,table lamp
+"An armored tank vehicle, often featuring a rotating turret and heavy weaponry, used for military operations or warfare.",847,tank
+"An audio tape player used for playing back magnetic tape recordings, such as cassette tapes or reel-to-reel tapes, often featuring playback controls and built-in speakers or output for external speakers.",848,tape player
+"A lidded teapot, typically made of ceramic or metal, used for brewing and serving tea, often featuring a handle, spout, and sometimes a built-in strainer.",849,teapot
+"A soft, stuffed teddy bear, typically made of fabric and shaped like a bear, often given as a gift or used for comfort by children.",850,teddy bear
+"An electronic television used for receiving and displaying video and audio signals, often used for watching broadcast programming, movies, or other forms of visual entertainment.",851,television
+"A small, rubber tennis ball covered in a fuzzy, felt-like material, used in the game of tennis, often featuring a distinctive yellow or green color.",852,tennis ball
+"A type of roofing material made from dry vegetation such as straw, water reed, sedge, or rushes, which are bundled together and used as a covering for houses and other buildings. Thatched roofs are commonly found in rural areas and traditional architecture.",853,thatched roof
+"A heavy front curtain or drapery, often made of velvet or other thick materials, that hangs at the front of a stage in a theater. It is used to conceal the stage from the audience before the performance begins, during scene changes, or at the end of the show.",854,front curtain
+"A small, protective thimble, usually made of metal, plastic, or leather, worn on the finger while sewing. It protects the finger from being pricked by the needle and helps push the needle through the fabric.",855,thimble
+"A piece of agricultural machinery used to separate grains from their husks and straw. The process, known as threshing, typically involves beating the harvested crops to break the protective covering and free the grains. Threshing machines have largely been replaced by modern combine harvesters.",856,threshing machine
+"A ceremonial or symbolic chair, often ornate and elevated, used by a monarch, bishop, or other high-ranking officials to signify their authority and status. Thrones are typically found in palaces, castles, and places of worship.",857,throne
+"A tile roof of roof covering made from overlapping pieces of materials such as clay, concrete, or slate, often found in Mediterranean or Spanish-style architecture.",858,tile roof
+"A small, electric toaster appliance designed for toasting slices of bread or other bread products by exposing them to radiant heat.",859,toaster
+"A retail tobacco shop that specializes in the sale of tobacco products, such as cigarettes, cigars, and pipe tobacco, as well as related accessories.",860,tobacco shop
+"The hinged, usually toilet seat or O-shaped, part of a toilet that provides a comfortable surface for users to sit on while using the toilet.",861,toilet seat
+"A portable torch source, typically consisting of a long handle with a combustible material at one end, or a battery-powered flashlight.",862,torch
+"A totem pole, wooden pole featuring a series of carved symbols or figures, often found in the cultures of indigenous peoples of the Pacific Northwest Coast of North America, used for ceremonial or symbolic purposes.",863,totem pole
+"A specialized tow truck equipped with a hoist or other apparatus for towing or recovering broken-down, damaged, or illegally parked vehicles.",864,tow truck
+"A retail toy store that specializes in the sale of toys, games, and other recreational items for children and adults.",865,toy store
+"A powerful, wheeled tractor used primarily in agriculture for pulling or towing farm implements, such as plows, seeders, or harvesters.",866,tractor
+"A large, powerful semi-trailer truck consisting of a tractor unit and an attached semi-trailer, used for the transportation of cargo over long distances.",867,semi-trailer truck
+"A flat, shallow tray, often made of plastic, metal, or wood, used for carrying, holding, or displaying items, such as food, utensils, or paperwork.",868,tray
+"A long, waterproof trench coat featuring a double-breasted design, often with a belt and shoulder straps, originally designed for military use but now commonly worn as a stylish outerwear option.",869,trench coat
+"A three-wheeled tricycle, often human-powered, featuring one wheel at the front and two at the rear, used for transportation or recreation, especially by young children.",870,tricycle
+"A trimaran of sailboat featuring a main hull and two smaller outrigger hulls for stability, offering increased speed and performance compared to traditional monohull sailboats.",871,trimaran
+"A three-legged tripod or stand used for stabilizing cameras, telescopes, or other devices, often featuring adjustable height and angle settings.",872,tripod
+"A monumental triumphal arch, often featuring a large, central archway and decorative elements, built to commemorate military victories, important events, or notable individuals.",873,triumphal arch
+"A trolleybus of electric bus powered by overhead wires, using trolley poles to connect to the electric supply, often used for public transportation in urban areas.",874,trolleybus
+"A trombone musical instrument featuring a long, cylindrical tube and a sliding mechanism, used to vary the length of the tube and produce different pitches.",875,trombone
+"A large, heated hot tub filled with water, often featuring built-in seating and jets for relaxation and hydrotherapy, typically used for recreational purposes.",876,hot tub
+"A mechanical turnstile consisting of rotating arms or bars, used to control access to an area, often found in public transportation stations or other high-traffic locations.",877,turnstile
+"The typewriter keyboard of a typewriter, a mechanical or electromechanical device used for typing text onto paper, featuring an arrangement of keys for inputting characters.",878,typewriter keyboard
+"A collapsible, handheld umbrella consisting of a circular fabric canopy supported by a metal frame, used for protection against rain or sun.",879,umbrella
+"A single-wheeled, human-powered unicycle featuring a frame, pedals, and a saddle, often used for entertainment, sport, or exercise.",880,unicycle
+"A upright piano of piano characterized by its vertical, compact design, with strings and soundboard positioned vertically inside the cabinet, often used in homes or small venues.",881,upright piano
+"An electric vacuum cleaner designed for cleaning floors and other surfaces by suction, often featuring a motorized fan, a filter, and a dust container or disposable bag.",882,vacuum cleaner
+"A decorative vase, typically made of glass, ceramic, or metal, used for holding cut flowers or as a standalone ornament.",883,vase
+"A vaulted or arched ceiling of ceiling featuring a series of curved or arched surfaces, often found in churches, cathedrals, or other large, open spaces, and used for both structural and aesthetic purposes.",884,vaulted or arched ceiling
+"A luxurious, soft velvet fabric with a dense, short pile, often made from silk, cotton, or synthetic fibers, used for clothing, upholstery, and draperies.",885,velvet fabric
+"A vending machine, automated machine that dispenses a variety of items, such as snacks, beverages, or tickets, upon the insertion of coins, bills, or electronic payment.",886,vending machine
+A ceremonial vestment worn by clergy or other religious officials during worship or other religious ceremonies.,887,vestment
+"A long, elevated viaduct, often featuring a series of arches or spans, used for supporting a road, railway, or waterway across a valley or other gap.",888,viaduct
+"A violin, stringed musical instrument, characterized by its curved body and distinctive sound, often used in classical, folk, and other genres of music.",889,violin
+"A volleyball sport played with a spherical ball, in which two teams of six players each attempt to score points by hitting the ball over a net and into the opposing team's court.",890,volleyball
+"A waffle iron appliance, featuring two heated plates with a grid pattern, used for cooking waffles by pouring batter between the plates and closing the device.",891,waffle iron
+"A timekeeping wall clock designed to be mounted on a wall, often featuring a round face with hands indicating hours, minutes, and sometimes seconds.",892,wall clock
+"A small, folding wallet, typically made of leather or fabric, used for holding money, cards, and other personal items.",893,wallet
+"A large, freestanding wardrobe of furniture with doors and shelves, used for storing clothing and other personal belongings.",894,wardrobe
+"An military aircraft operated by a country's armed forces, often designed for combat, reconnaissance, transport, or other military purposes.",895,military aircraft
+"A plumbing sink featuring a basin and a faucet, used for washing hands, dishes, or other items, often found in kitchens, bathrooms, or utility rooms.",896,sink
+"A washing machine appliance designed for cleaning clothes, linens, and other textiles by agitating them in water and detergent, often featuring a spinning drum for wringing out excess water.",897,washing machine
+"A water bottle, often made of plastic, metal, or glass, designed for holding and transporting water or other beverages for personal consumption.",898,water bottle
+"A large, often lidded, water jug used for holding and serving water or other beverages.",899,water jug
+"A water tower, elevated structure used for storing and distributing potable water, often found in urban areas to maintain water pressure in distribution systems.",900,water tower
+"A whiskey jug, typically made of ceramic or glass, used for storing and serving whiskey or other distilled spirits.",901,whiskey jug
+"A small, handheld whistle used for producing a loud, high-pitched sound, often used for signaling, attracting attention, or officiating sports events.",902,whistle
+"A hair wig covering made from human hair, animal hair, or synthetic fibers, designed to imitate natural hair and worn for fashion, theatrical, or other aesthetic purposes.",903,hair wig
+"A window screen or wire grid placed in a window frame to allow air circulation while keeping out insects, debris, and other unwanted elements.",904,window screen
+"A window shade covering, often made of fabric, plastic, or other materials, designed to control light, privacy, and temperature, typically rolled or folded up when not in use.",905,window shade
+"A Windsor tie of wide, triangular knot used for tying a necktie, named after the British Duke of Windsor, often associated with a more formal and sophisticated appearance.",906,Windsor tie
+"A specially designed wine bottle, typically made of glass, used for holding and storing wine, often featuring a cork or screw cap closure.",907,wine bottle
+"The primary lifting airplane wing of an aircraft, providing lift by creating a pressure difference between the upper and lower surfaces as air flows over them.",908,airplane wing
+"A wok, round-bottomed pan used in Chinese and other East Asian cooking, often used for stir-frying, deep-frying, searing, or boiling.",909,wok
+"A wooden spoon utensil made from wood, featuring a long handle and a shallow bowl, often used for stirring, mixing, or serving food.",910,wooden spoon
+"A natural wool obtained from the fleece of sheep or other animals, often used for producing textiles, such as clothing, blankets, and carpets.",911,wool
+"A split-rail fence of fence made from wooden rails that are split or split-lengthwise, often used in rural areas for enclosing livestock or marking property boundaries.",912,split-rail fence
+"The shipwreck of a ship that has been destroyed or sunk, often found on the seabed or washed ashore, sometimes of historical or archaeological interest.",913,shipwreck
+"A sailboat propelled primarily by sails and wind power, often used for recreational purposes or competitive sailing.",914,sailboat
+"A traditional, circular yurt used by nomadic peoples in Central Asia, featuring a wooden frame and a felt or canvas covering.",915,yurt
+"A website of related web pages, multimedia content, and other resources, accessible via the internet and identified by a common domain name.",916,website
+"A comic book consisting of comic art in the form of sequential, juxtaposed panels that represent individual scenes, often featuring text and narrative.",917,comic book
+"A crossword puzzle in which words are arranged in a grid, with clues provided for each word, requiring the solver to fill in the grid with the correct words based on the clues.",918,crossword
+"A traffic or street sign placed along roads, streets, or other thoroughfares to provide information, guidance, or warnings to drivers, pedestrians, and other road users.",919,traffic or street sign
+"An electronic traffic light device used to control the flow of traffic at intersections, featuring colored lights that indicate when vehicles should stop, proceed with caution, or go.",920,traffic light
+"A removable dust jacket cover placed around the outside of a book, often featuring illustrations, promotional text, and other information about the book.",921,dust jacket
+"A printed or electronic menu listing the dishes and beverages available at a restaurant, café, or other food service establishment.",922,menu
+"A flat, usually plate, dish used for serving or eating food.",923,plate
+"A Mexican guacamole or spread made from mashed ripe avocados, often mixed with lime juice, tomatoes, onions, and other ingredients.",924,guacamole
+"A clear, flavorful consomme made from concentrated stock that has been clarified, often served as an appetizer or light meal.",925,consomme
+"A Chinese hot pot method in which a simmering pot of soup stock is placed at the center of the dining table, and various raw ingredients are cooked in the stock by the diners themselves.",926,hot pot
+"A trifle made from layers of sponge cake soaked in fruit and alcohol or fruit juice, topped with layers of custard, fruit, and whipped cream.",927,trifle
+"A ice cream, frozen dessert made from a mixture of dairy products, sugar, and flavorings, often served in scoops or cones.",928,ice cream
+"A frozen popsicle made from fruit juice or flavored syrup, often on a stick, consumed by licking or biting while holding the stick.",929,popsicle
+"A long, thin baguette of French bread characterized by a crisp crust and soft, chewy interior.",930,baguette
+"A bagel, ring-shaped bread roll with a chewy texture, traditionally boiled before baking, often topped with seeds or other ingredients.",931,bagel
+"A baked, knot-shaped pretzel made from dough, often salted and sometimes flavored with various seasonings.",932,pretzel
+"A sandwich cheeseburger of a cooked ground beef patty, typically served on a bun and topped with cheese, along with other toppings and condiments.",933,cheeseburger
+"A cooked hot dog, traditionally made from beef or pork, served in a sliced bun with various toppings and condiments.",934,hot dog
+"A mashed potatoes made by boiling potatoes and then mashing them, often with the addition of milk, butter, and seasonings.",935,mashed potatoes
+"A cabbage green or purple plant, typically with a dense, round head of leaves, used as a vegetable in various culinary dishes.",936,cabbage
+"A green broccoli with a large, branching head of tightly clustered green flower buds, belonging to the cabbage family, and eaten as a vegetable.",937,broccoli
+"A vegetable cauliflower of a large, white head of undeveloped flower buds, surrounded by green leaves, belonging to the cabbage family.",938,cauliflower
+"A zucchini squash with a mild flavor and tender flesh, typically green or yellow, often used in savory dishes.",939,zucchini
+"A spaghetti squash of winter squash with a stringy, spaghetti-like flesh when cooked, often used as a low-carb alternative to pasta.",940,spaghetti squash
+"A small, dark green, acorn-shaped acorn squash squash with a mild, slightly sweet flavor and orange-yellow flesh.",941,acorn squash
+"A bell-shaped butternut squash squash with a tan-colored skin and sweet, orange-yellow flesh, often used in soups, casseroles, and other dishes.",942,butternut squash
+"A long, cylindrical, green-skinned cucumber with a crisp, watery flesh, typically eaten raw in salads or pickled.",943,cucumber
+"A large, edible artichoke bud with thick, fleshy, leaf-like scales, often boiled or steamed and eaten by removing the scales and scraping off the tender base with the teeth.",944,artichoke
+"A bell pepper, mild pepper with a thick, crunchy flesh, typically green, red, yellow, or orange, often eaten raw or cooked in various dishes.",945,bell pepper
+"A cardoon vegetable related to the artichoke, with long, celery-like stalks and a slightly bitter flavor, often eaten cooked.",946,cardoon
+"A mushroom of fungus with a fruiting body consisting of a cap and stem, often used as a culinary ingredient for their unique flavors and textures.",947,mushroom
+"A Granny Smith apple of apple with a bright green skin and a tart, crisp flavor, often used in baking or eaten raw.",948,Granny Smith apple
+"A small, red, heart-shaped strawberry with a sweet, slightly tangy flavor, covered in small seeds and often eaten raw or used in desserts.",949,strawberry
+"A round, orange-skinned citrus fruit with a sweet, tangy flavor, often eaten raw or used in various culinary dishes and drinks.",950,orange
+"A yellow-skinned lemon fruit with a sour, acidic flavor, often used in cooking, baking, and beverages.",951,lemon
+"A small, pear-shaped fig with a sweet, slightly chewy flesh and numerous small seeds, often eaten dried or fresh.",952,fig
+"A large, tropical pineapple with a tough, spiky exterior and sweet, tangy flesh, often eaten fresh or used in various dishes and drinks.",953,pineapple
+"A long, curved, yellow-skinned banana with a soft, sweet flesh, often eaten raw or used in various culinary dishes and desserts.",954,banana
+"A large, tropical jackfruit with a bumpy green exterior and sweet, fibrous flesh that can be eaten fresh or used in various dishes.",955,jackfruit
+"A tropical cherimoya (custard apple) with a green, scaly skin and sweet, custard-like flesh, often eaten fresh.",956,cherimoya (custard apple)
+"A pomegranate, red fruit with a tough outer skin and numerous small, juicy seeds, often eaten raw or used in various dishes and drinks.",957,pomegranate
+"hay grass, typically used as animal fodder.",958,hay
+"An Italian carbonara dish made with egg, cheese, pancetta, and pepper, often served with spaghetti.",959,carbonara
+"A chocolate syrup, thick liquid made from cocoa, sugar, and water, often used as a topping for desserts or mixed into drinks.",960,chocolate syrup
+"A dough of flour, water, and other ingredients, typically used as a base for making bread, pastries, and other baked goods.",961,dough
+"A dish made from meatloaf meat, breadcrumbs, and seasonings, shaped into a loaf and baked.",962,meatloaf
+"A dish pizza of a flat, round base of dough topped with tomato sauce, cheese, and various other ingredients, then baked.",963,pizza
+"A savory pot pie with a flaky crust, filled with meat, vegetables, and gravy.",964,pot pie
+"A Mexican burrito consisting of a flour tortilla wrapped around a filling of meat, beans, rice, and other ingredients.",965,burrito
+An alcoholic red wine made from fermented red grapes.,966,red wine
+"A strong, concentrated espresso made by forcing hot water through finely ground coffee beans.",967,espresso
+"A small, handle-equipped tea cup specifically designed for drinking tea.",968,tea cup
+"A rich, creamy, dairy-based eggnog traditionally made with milk, cream, sugar, and eggs, often spiked with alcohol and served during the winter holidays.",969,eggnog
+"A large, natural mountain of the Earth's surface, often characterized by steep slopes and a peak.",970,mountain
+"A thin, spherical bubble of liquid enclosing air or gas, often formed by soap or other substances.",971,bubble
+"A steep, high cliff face, often found along coastlines or formed by the erosive action of water or wind.",972,cliff
+"An underwater coral reef formed by colonies of coral polyps, providing a habitat for a diverse range of marine life.",973,coral reef
+"A natural hot geyser that periodically erupts, shooting water and steam into the air.",974,geyser
+The lakeshore along the edge of a lake.,975,lakeshore
+A high promontory of land or rock projecting into a body of water or overlooking a lowland area.,976,promontory
+"A long, narrow sandbar of sand or sediment in a body of water, often visible at low tide or just beneath the water's surface.",977,sandbar
+"A gently sloping shoreline beach composed of sand, pebbles, or other loose material, typically located along the edge of a body of water.",978,beach
+"A low valley of land between hills or mountains, often with a river or stream flowing through it.",979,valley
+"A volcano or hill with a crater or vent through which molten rock, ash, and gas are or have been expelled from the Earth's interior.",980,volcano
+"An baseball player who participates in the sport of baseball, either professionally or recreationally.",981,baseball player
+A bridegroom on his wedding day or just before and after the event.,982,bridegroom
+A scuba diver who engages in underwater diving using a self-contained underwater breathing apparatus (SCUBA) to explore and interact with the underwater environment.,983,scuba diver
+"A bright yellow rapeseed plant in the mustard family, grown for its seeds, which yield canola oil and animal feed.",984,rapeseed
+"A common, simple daisy with a central disk of tiny florets surrounded by white or colored petals, often found in lawns and meadows.",985,daisy
+"A yellow lady's slipper of orchid with a pouch-like lip (or slipper) and yellow petals, native to North America and Europe.",986,yellow lady's slipper
+"A tall corn plant with large seeds (kernels) set in rows on a cob, cultivated for food and livestock feed.",987,corn
+"The acorn of the oak tree, consisting of a smooth, oval nut in a rough, cup-like base, typically eaten by wildlife and sometimes used in cooking.",988,acorn
+"The rose hip of the rose plant, typically red or orange, and a good source of vitamin C, often used in teas, jams, and medicinal preparations.",989,rose hip
+"The large, shiny brown horse chestnut seed of the horse chestnut tree, often used in decorative arrangements or for traditional children's games.",990,horse chestnut seed
+"A coral fungus of fungus with branching, coral-like structures, found in various colors and growing in woodlands.",991,coral fungus
+"A agaric of mushroom with a cap, gills, and a stalk, commonly found in woodlands and meadows.",992,agaric
+"A gyromitra of fungi with irregularly shaped, brain-like caps and a stalk, some species of which are toxic.",993,gyromitra
+"A stinkhorn mushroom of fungus with a distinctive, foul odor, often attracting insects to help disperse its spores.",994,stinkhorn mushroom
+"A earth star fungus of fungus with a central spore sac and radiating, star-like arms that push the fruiting body above ground.",995,earth star fungus
+"A large, edible hen of the woods mushroom with a cluster of overlapping, fan-shaped caps, typically found at the base of oak trees.",996,hen of the woods mushroom
+"A bolete of mushroom with a fleshy cap and a spongy underside composed of pores instead of gills, found in woodlands.",997,bolete
+"The central corn cob of an ear of corn, from which the kernels grow and are attached.",998,corn cob
+"A soft, absorbent toilet paper product designed for personal hygiene, typically used to clean oneself after using the toilet.",999,toilet paper
