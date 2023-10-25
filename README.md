@@ -1,5 +1,5 @@
 # Stable_Diffusion_is_Unstable
-Official implementation of paper: Stable Diffusion is Unstable
+This is the codebase for the Neurips 2023 paper [Stable Diffusion is Unstable](https://arxiv.org/abs/2306.02583).
 
 
 
