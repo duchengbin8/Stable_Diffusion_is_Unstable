@@ -1,5 +1,5 @@
 # Stable_Diffusion_is_Unstable
-This is the codebase for the Neurips 2023 paper [Stable Diffusion is Unstable](https://arxiv.org/abs/2306.02583).
+This is the codebase for the Neurips 2023 Spotlight paper [Stable Diffusion is Unstable](https://arxiv.org/abs/2306.02583).
 
 
 
