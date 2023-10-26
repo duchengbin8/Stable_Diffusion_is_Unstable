@@ -1,5 +1,5 @@
 cfg = {
-    'adv_samples_folder': '/media/jiajun/Expansion/grad_based/text-adversarial-attack-main/',
+    'adv_samples_folder': '',
     'num_inference_steps': 50,
     'batch_size': 1,
     'img_size' : 256,
