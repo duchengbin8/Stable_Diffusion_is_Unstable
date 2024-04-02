@@ -16,4 +16,4 @@ pip install transformers==4.28.1
 pip install diffusers==0.21.4
 
 
-Pre-trained GPT2 based on Clip tokenizer is available here: https://drive.google.com/drive/folders/1crLheHFd8XQGvdxtwLIDtFXyorYf0V5G
+Pre-trained GPT2 based on Clip tokenizer is available here: [https://drive.google.com/drive/folders/1crLheHFd8XQGvdxtwLIDtFXyorYf0V5G](https://drive.google.com/drive/folders/11G2Sr6FI3Bx_2M3BIbHDa9KCD9grzRRC?usp=drive_link)
