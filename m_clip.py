@@ -22,17 +22,17 @@ import torch
 import torch.utils.checkpoint
 from torch import nn
 
-from transformers.activations import ACT2FN
-from transformers.modeling_outputs import BaseModelOutput, BaseModelOutputWithPooling
-from transformers.modeling_utils import PreTrainedModel
-from transformers.utils import (
+from ...activations import ACT2FN
+from ...modeling_outputs import BaseModelOutput, BaseModelOutputWithPooling
+from ...modeling_utils import PreTrainedModel
+from ...utils import (
     ModelOutput,
     add_start_docstrings,
     add_start_docstrings_to_model_forward,
     logging,
     replace_return_docstrings,
 )
-from transformers.models.clip.configuration_clip import CLIPConfig, CLIPTextConfig, CLIPVisionConfig
+from .configuration_clip import CLIPConfig, CLIPTextConfig, CLIPVisionConfig
 
 
 logger = logging.get_logger(__name__)
@@ -214,7 +214,7 @@ class CLIPTextEmbeddings(nn.Module):
 
     def forward(
         self,
-        input_ids: Optional[torch.Tensor] = None,
+        input_ids: Optional[torch.LongTensor] = None,
         position_ids: Optional[torch.LongTensor] = None,
         inputs_embeds: Optional[torch.FloatTensor] = None,
     ) -> torch.Tensor:
@@ -709,12 +709,13 @@ class CLIPTextTransformer(nn.Module):
             input_shape = input_ids.size()
             input_ids = input_ids.view(-1, input_shape[-1])
             hidden_states = self.embeddings(input_ids=input_ids, position_ids=position_ids)
+
         elif inputs_embeds is not None:
             input_shape = inputs_embeds.size()
-            inputs_embeds = inputs_embeds.view(-1, inputs_embeds[-1])
-            hidden_states = self.embeddings(inputs_embeds=inputs_embeds, position_ids=position_ids)
-            
-        bsz, seq_len = input_shape
+            input_ids = inputs_embeds.view(-1, input_shape[-1])
+            hidden_states = self.embeddings(inputs_embeds=input_ids, position_ids=position_ids)    
+
+        bsz, seq_len = input_shape[0], input_shape[1]
         # CLIP's text model uses causal mask, prepare it here.
         # https://github.com/openai/CLIP/blob/cfcffb90e69f37bf2ff1e988237a0fbe41f33c04/clip/model.py#L324
         causal_attention_mask = self._build_causal_attention_mask(bsz, seq_len, hidden_states.dtype).to(
